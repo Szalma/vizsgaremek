@@ -17,7 +17,7 @@ public class RepeatedDataInputTest extends BaseTest {
         RepeatedDataInput repeatedDataInput=new RepeatedDataInput(driver);
         repeatedDataInput.clickMyWishlists();
         repeatedDataInput.SEND_NAME();
-        Assertions.assertEquals("T-SHIRT 0 0 2021-08-04 View",repeatedDataInput.contetsOfTheTable());
+        Assertions.assertEquals("T-SHIRT",repeatedDataInput.contetsOfTheTable());
 
     }
 }

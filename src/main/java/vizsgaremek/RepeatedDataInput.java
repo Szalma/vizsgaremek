@@ -13,7 +13,7 @@ public class RepeatedDataInput {
     private final By MY_WISHLISTS = By.xpath("//*[@id=\"center_column\"]/div/div[2]/ul/li/a/span");
     private final By NAME = By.id("name");
     private final By SAVE=By.xpath("//*[@id=\"submitWishlist\"]/span");
-    private final By CONTETS_OF_THE_TABLE=By.xpath("//*[@id=\"block-history\"]/table/tbody");
+    private final By CONTETS_OF_THE_TABLE=By.xpath("//*[@class='table table-bordered']//td[1]/a");
 
     public RepeatedDataInput ( WebDriver driver ) {
         this.driver = driver;
