@@ -1,1 +1,111 @@
-[ ]
+[ {
+  "uid" : "aa4704a52d8ba54f",
+  "name" : "deleteTest()",
+  "time" : {
+    "start" : 1628423005434,
+    "stop" : 1628423028987,
+    "duration" : 23553
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bce7296716eb31eb",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1628423036547,
+    "stop" : 1628423046077,
+    "duration" : 9530
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c94a1bbd8cff5fcd",
+  "name" : "saveTest()",
+  "time" : {
+    "start" : 1628423029080,
+    "stop" : 1628423036542,
+    "duration" : 7462
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c984ec393987cbd7",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1628423046085,
+    "stop" : 1628423053110,
+    "duration" : 7025
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "282ccb70a6599f57",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1628423147941,
+    "stop" : 1628423159179,
+    "duration" : 11238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ff8bfe6bc762084",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1628423123330,
+    "stop" : 1628423147928,
+    "duration" : 24598
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "fd7517cab81fb7c4",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1628423081236,
+    "stop" : 1628423109385,
+    "duration" : 28149
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b4a0bb1d605601ef",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1628423053118,
+    "stop" : 1628423067060,
+    "duration" : 13942
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d8d6d8bc2785f81c",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1628423067069,
+    "stop" : 1628423081225,
+    "duration" : 14156
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c80fa4e12da3dc9a",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1628423117173,
+    "stop" : 1628423123322,
+    "duration" : 6149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccd80b696688cbb9",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1628423109405,
+    "stop" : 1628423117168,
+    "duration" : 7763
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
