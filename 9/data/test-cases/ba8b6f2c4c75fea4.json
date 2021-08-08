@@ -1,0 +1,125 @@
+{
+  "uid" : "ba8b6f2c4c75fea4",
+  "name" : "saveTest()",
+  "fullName" : "savetofile.SaveToFileTest.saveTest",
+  "historyId" : "e008d9b7ec7d70ede4d64a15ca4bd611",
+  "time" : {
+    "start" : 1628420405967,
+    "stop" : 1628420422241,
+    "duration" : 16274
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Setup",
+    "time" : {
+      "start" : 1628420405968,
+      "stop" : 1628420410720,
+      "duration" : 4752
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "quit",
+    "time" : {
+      "start" : 1628420422173,
+      "stop" : 1628420422241,
+      "duration" : 68
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az82-623"
+  }, {
+    "name" : "thread",
+    "value" : "2921@fv-az82-623.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "savetofile.SaveToFileTest"
+  }, {
+    "name" : "testClass",
+    "value" : "savetofile.SaveToFileTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "saveTest"
+  }, {
+    "name" : "suite",
+    "value" : "savetofile.SaveToFileTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 4,
+        "unknown" : 0,
+        "total" : 4
+      },
+      "items" : [ {
+        "uid" : "4ae0db686cddd280",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/5//#testresult/4ae0db686cddd280",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420403592,
+          "stop" : 1628420416616,
+          "duration" : 13024
+        }
+      }, {
+        "uid" : "f4e9e2e566910c58",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/10//#testresult/f4e9e2e566910c58",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420365385,
+          "stop" : 1628420372362,
+          "duration" : 6977
+        }
+      }, {
+        "uid" : "a0924b9e702d7330",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/2//#testresult/a0924b9e702d7330",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420115825,
+          "stop" : 1628420140503,
+          "duration" : 24678
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "ba8b6f2c4c75fea4.json",
+  "parameterValues" : [ ]
+}

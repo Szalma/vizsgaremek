@@ -1,1 +1,111 @@
-[ ]
+[ {
+  "uid" : "871dcb1af8e38b47",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1628420585476,
+    "stop" : 1628420611547,
+    "duration" : 26071
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "7c8aecce2fd0e5c",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1628420567104,
+    "stop" : 1628420578339,
+    "duration" : 11235
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cfb2ecd1c9ccc777",
+  "name" : "deleteTest()",
+  "time" : {
+    "start" : 1628420376175,
+    "stop" : 1628420405849,
+    "duration" : 29674
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8a5c86e420fc2030",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1628420448560,
+    "stop" : 1628420494958,
+    "duration" : 46398
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "ba8b6f2c4c75fea4",
+  "name" : "saveTest()",
+  "time" : {
+    "start" : 1628420405967,
+    "stop" : 1628420422241,
+    "duration" : 16274
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "70474d143d23aa08",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1628420528698,
+    "stop" : 1628420567088,
+    "duration" : 38390
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a30bb1bd4f94890e",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1628420611555,
+    "stop" : 1628420632600,
+    "duration" : 21045
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "83a870e7cbf8a87c",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1628420494976,
+    "stop" : 1628420528684,
+    "duration" : 33708
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "692f8b3689aef008",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1628420432452,
+    "stop" : 1628420448553,
+    "duration" : 16101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d5055312bd8a0052",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1628420422270,
+    "stop" : 1628420432447,
+    "duration" : 10177
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d702a8ac33de530e",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1628420578348,
+    "stop" : 1628420585470,
+    "duration" : 7122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
