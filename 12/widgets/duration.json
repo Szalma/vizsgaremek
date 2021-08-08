@@ -1,0 +1,111 @@
+[ {
+  "uid" : "9f0cb3613f442b4c",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1628445961730,
+    "stop" : 1628445995747,
+    "duration" : 34017
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "330124e1b8348aa7",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1628445848112,
+    "stop" : 1628445891834,
+    "duration" : 43722
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c34f64ad402ff94c",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1628446063137,
+    "stop" : 1628446069783,
+    "duration" : 6646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5fd0f398aa965eb8",
+  "name" : "saveTest()",
+  "time" : {
+    "start" : 1628445807070,
+    "stop" : 1628445843615,
+    "duration" : 36545
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a085ac5e48297881",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1628445912371,
+    "stop" : 1628445961719,
+    "duration" : 49348
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62b5d3b681d970ff",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1628445995755,
+    "stop" : 1628446044041,
+    "duration" : 48286
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ebe85eeedda397dc",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1628446044057,
+    "stop" : 1628446063134,
+    "duration" : 19077
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d82e8d3a801c27e",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1628446069797,
+    "stop" : 1628446096232,
+    "duration" : 26435
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ba4ce53349331afa",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1628445843699,
+    "stop" : 1628445896609,
+    "duration" : 52910
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "eab5c9415d078923",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1628445891842,
+    "stop" : 1628445912352,
+    "duration" : 20510
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dddc6f9d94c11744",
+  "name" : "deleteTest()",
+  "time" : {
+    "start" : 1628445806928,
+    "stop" : 1628445848031,
+    "duration" : 41103
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

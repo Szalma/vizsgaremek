@@ -1,0 +1,173 @@
+{
+  "uid" : "9f0cb3613f442b4c",
+  "name" : "updateTest()",
+  "fullName" : "udateaddress.UpdateAddressTest.updateTest",
+  "historyId" : "ba81521cb165d527242ba3f70733c9d2",
+  "time" : {
+    "start" : 1628445961730,
+    "stop" : 1628445995747,
+    "duration" : 34017
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "Setup",
+    "time" : {
+      "start" : 1628445961730,
+      "stop" : 1628445966986,
+      "duration" : 5256
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az47-991"
+  }, {
+    "name" : "thread",
+    "value" : "2920@fv-az47-991.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "udateaddress.UpdateAddressTest"
+  }, {
+    "name" : "testClass",
+    "value" : "udateaddress.UpdateAddressTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "updateTest"
+  }, {
+    "name" : "suite",
+    "value" : "udateaddress.UpdateAddressTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 11,
+        "unknown" : 0,
+        "total" : 11
+      },
+      "items" : [ {
+        "uid" : "d8d6d8bc2785f81c",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/8//#testresult/d8d6d8bc2785f81c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628423067069,
+          "stop" : 1628423081225,
+          "duration" : 14156
+        }
+      }, {
+        "uid" : "bc6a87d2f668de52",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/6//#testresult/bc6a87d2f668de52",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628423051187,
+          "stop" : 1628423063788,
+          "duration" : 12601
+        }
+      }, {
+        "uid" : "6199736fd3edda08",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/3//#testresult/6199736fd3edda08",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628422829937,
+          "stop" : 1628422859147,
+          "duration" : 29210
+        }
+      }, {
+        "uid" : "5d6139c8e8af211e",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/10//#testresult/5d6139c8e8af211e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628422820530,
+          "stop" : 1628422848142,
+          "duration" : 27612
+        }
+      }, {
+        "uid" : "a0705b574691a413",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/11//#testresult/a0705b574691a413",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628422798671,
+          "stop" : 1628422828734,
+          "duration" : 30063
+        }
+      }, {
+        "uid" : "73bc742dafb58753",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/7//#testresult/73bc742dafb58753",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420535291,
+          "stop" : 1628420553217,
+          "duration" : 17926
+        }
+      }, {
+        "uid" : "83a870e7cbf8a87c",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/83a870e7cbf8a87c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420494976,
+          "stop" : 1628420528684,
+          "duration" : 33708
+        }
+      }, {
+        "uid" : "b76106e17be8f751",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/5//#testresult/b76106e17be8f751",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420474758,
+          "stop" : 1628420514366,
+          "duration" : 39608
+        }
+      }, {
+        "uid" : "6a632998a2578648",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/10//#testresult/6a632998a2578648",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420397838,
+          "stop" : 1628420406901,
+          "duration" : 9063
+        }
+      }, {
+        "uid" : "1352fcbbad72ce5f",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/2//#testresult/1352fcbbad72ce5f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1628420191091,
+          "stop" : 1628420227974,
+          "duration" : 36883
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "9f0cb3613f442b4c.json",
+  "parameterValues" : [ ]
+}
