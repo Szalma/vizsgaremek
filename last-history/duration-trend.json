@@ -1,4 +1,11 @@
 [ {
+  "buildOrder" : 3,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/3/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 282736
+  }
+}, {
   "buildOrder" : 10,
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/10/",
   "reportName" : "Allure Report with history",
