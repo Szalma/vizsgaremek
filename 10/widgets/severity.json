@@ -1,0 +1,111 @@
+[ {
+  "uid" : "6a632998a2578648",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1628420397838,
+    "stop" : 1628420406901,
+    "duration" : 9063
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8480f2e35c1bd82d",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1628420372371,
+    "stop" : 1628420380633,
+    "duration" : 8262
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1410f0b88a0dc2d6",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1628420495593,
+    "stop" : 1628420529607,
+    "duration" : 34014
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f4e9e2e566910c58",
+  "name" : "saveTest()",
+  "time" : {
+    "start" : 1628420365385,
+    "stop" : 1628420372362,
+    "duration" : 6977
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55f9d512e5a9975b",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1628420474739,
+    "stop" : 1628420495589,
+    "duration" : 20850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7a2d5a13d69f9d68",
+  "name" : "deleteTest()",
+  "time" : {
+    "start" : 1628420332761,
+    "stop" : 1628420365298,
+    "duration" : 32537
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1d16da4487792138",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1628420529617,
+    "stop" : 1628420546588,
+    "duration" : 16971
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "41d5bd8513067333",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1628420380638,
+    "stop" : 1628420388013,
+    "duration" : 7375
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b1e959ba9a2a8470",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1628420388023,
+    "stop" : 1628420397834,
+    "duration" : 9811
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "3401bc7c99aee760",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1628420446122,
+    "stop" : 1628420474731,
+    "duration" : 28609
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fc857500409b799e",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1628420406916,
+    "stop" : 1628420446107,
+    "duration" : 39191
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
