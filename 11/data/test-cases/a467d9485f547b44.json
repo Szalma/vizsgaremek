@@ -1,12 +1,12 @@
 {
-  "uid" : "ac4ac9a367550638",
+  "uid" : "a467d9485f547b44",
   "name" : "privacyPolicyTest()",
   "fullName" : "privacypolicy.PrivacyPolicyTest.privacyPolicyTest",
   "historyId" : "874076ca03adbd4b1ef88e571c786150",
   "time" : {
-    "start" : 1628445928738,
-    "stop" : 1628445954322,
-    "duration" : 25584
+    "start" : 1628445930907,
+    "stop" : 1628445957629,
+    "duration" : 26722
   },
   "description" : "",
   "status" : "passed",
@@ -15,9 +15,9 @@
   "beforeStages" : [ {
     "name" : "Setup",
     "time" : {
-      "start" : 1628445928743,
-      "stop" : 1628445934897,
-      "duration" : 6154
+      "start" : 1628445930907,
+      "stop" : 1628445937565,
+      "duration" : 6658
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,10 +31,10 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "host",
-    "value" : "fv-az72-552"
+    "value" : "fv-az83-224"
   }, {
     "name" : "thread",
-    "value" : "2942@fv-az72-552.ForkJoinPool-1-worker-1(12)"
+    "value" : "3023@fv-az83-224.ForkJoinPool-1-worker-1(12)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -178,6 +178,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "ac4ac9a367550638.json",
+  "source" : "a467d9485f547b44.json",
   "parameterValues" : [ ]
 }

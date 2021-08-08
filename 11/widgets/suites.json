@@ -1,17 +1,6 @@
 {
   "total" : 11,
   "items" : [ {
-    "uid" : "22d5769ff396d277fe0d903d3cfd91a2",
-    "name" : "deletedata.DeleteDataTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 1,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
     "uid" : "01db2c316a6c10b10ee6ac79cd60e638",
     "name" : "newdatainput.NewDataInputTest",
     "statistic" : {
@@ -30,6 +19,17 @@
       "broken" : 1,
       "skipped" : 0,
       "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "22d5769ff396d277fe0d903d3cfd91a2",
+    "name" : "deletedata.DeleteDataTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
       "unknown" : 0,
       "total" : 1
     }

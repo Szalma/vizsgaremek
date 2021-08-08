@@ -1,12 +1,12 @@
 {
-  "uid" : "f4ee832fb71057d3",
+  "uid" : "bb8b15e40bf81345",
   "name" : "signoutTest()",
   "fullName" : "logout.LogoutTest.signoutTest",
   "historyId" : "ff489951925913a970754280ae316aeb",
   "time" : {
-    "start" : 1628445888337,
-    "stop" : 1628445928733,
-    "duration" : 40396
+    "start" : 1628445888916,
+    "stop" : 1628445930900,
+    "duration" : 41984
   },
   "description" : "",
   "status" : "passed",
@@ -15,9 +15,9 @@
   "beforeStages" : [ {
     "name" : "Setup",
     "time" : {
-      "start" : 1628445888337,
-      "stop" : 1628445896303,
-      "duration" : 7966
+      "start" : 1628445888917,
+      "stop" : 1628445898119,
+      "duration" : 9202
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,10 +31,10 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "host",
-    "value" : "fv-az72-552"
+    "value" : "fv-az83-224"
   }, {
     "name" : "thread",
-    "value" : "2942@fv-az72-552.ForkJoinPool-1-worker-1(12)"
+    "value" : "3023@fv-az83-224.ForkJoinPool-1-worker-1(12)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -177,6 +177,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "f4ee832fb71057d3.json",
+  "source" : "bb8b15e40bf81345.json",
   "parameterValues" : [ ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "112475047b95256e",
+  "uid" : "e7fe198302d244d5",
   "name" : "deleteTest()",
   "fullName" : "deletedata.DeleteDataTest.deleteTest",
   "historyId" : "4e21b2105ba6dfb89ada3e368ebaea37",
   "time" : {
-    "start" : 1628445808891,
-    "stop" : 1628445852765,
-    "duration" : 43874
+    "start" : 1628445808770,
+    "stop" : 1628445851704,
+    "duration" : 42934
   },
   "description" : "",
   "status" : "passed",
@@ -15,9 +15,9 @@
   "beforeStages" : [ {
     "name" : "Setup",
     "time" : {
-      "start" : 1628445808912,
-      "stop" : 1628445825876,
-      "duration" : 16964
+      "start" : 1628445808787,
+      "stop" : 1628445824600,
+      "duration" : 15813
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,10 +31,10 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "host",
-    "value" : "fv-az72-552"
+    "value" : "fv-az83-224"
   }, {
     "name" : "thread",
-    "value" : "2942@fv-az72-552.ForkJoinPool-1-worker-1(12)"
+    "value" : "3023@fv-az83-224.ForkJoinPool-1-worker-1(12)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -187,6 +187,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "112475047b95256e.json",
+  "source" : "e7fe198302d244d5.json",
   "parameterValues" : [ ]
 }
