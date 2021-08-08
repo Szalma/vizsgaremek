@@ -2,6 +2,7 @@ package base;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import login.LoginTest;
+import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.BeforeEach;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -25,7 +26,7 @@ public class BaseTest {
         ChromeOptions options=new ChromeOptions();
         options.addArguments("--no-sandbox");
         options.addArguments("--disable-dev-shm-usage");
-        //options.addArguments("--headless");
+        options.addArguments("--headless");
         driver=new ChromeDriver(options);
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
@@ -34,8 +35,8 @@ public class BaseTest {
 
     }
 
-   /* @AfterEach
+    @AfterEach
     public void quit(){
         driver.quit();
-    }*/
+    }
 }
