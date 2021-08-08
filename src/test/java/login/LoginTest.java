@@ -1,9 +1,9 @@
 package login;
 
 import base.BaseTest;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.Login;
-import static org.junit.Assert.assertEquals;
 
 public class LoginTest extends BaseTest {
 
@@ -16,7 +16,7 @@ public class LoginTest extends BaseTest {
         login.sendEmailAddress(email);
         login.sendPassword(password);
         login.clicksignInButton();
-        assertEquals("Stefi Stefi", login.name());
+        Assertions.assertEquals("Stefi Stefi", login.name());
     }
 
 }

@@ -4,9 +4,6 @@ import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.DataList;
-import vizsgaremek.Login;
-
-import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class DataListTest extends BaseTest {
 
@@ -21,6 +18,6 @@ public class DataListTest extends BaseTest {
         DataList datalist=new DataList(driver);
         datalist.clickAboutUs();
         boolean result=datalist.creatDataList(title);
-        assertTrue(result);
+        Assertions.assertTrue(result);
     }
 }

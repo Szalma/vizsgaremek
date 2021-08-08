@@ -5,8 +5,6 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.Registration;
 
-import static org.junit.Assert.assertEquals;
-
 public class RegistrationTest extends BaseTest {
     private String email="stefi2@gmail.com";
     private String firstname="Stefi";
@@ -36,6 +34,6 @@ public class RegistrationTest extends BaseTest {
         registration.sendPostalCode(zip);
         registration.sendMobilePhone(mobile);
         registration.clickRegister();
-        assertEquals("Stefi Stefi", registration.name());
+        Assertions.assertEquals("Stefi Stefi", registration.name());
     }
 }

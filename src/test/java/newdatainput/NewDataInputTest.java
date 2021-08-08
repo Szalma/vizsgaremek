@@ -1,10 +1,10 @@
 package newdatainput;
 
 import base.BaseTest;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.NewDataInput;
 
-import static org.junit.Assert.assertEquals;
 
 public class NewDataInputTest extends BaseTest {
 
@@ -31,6 +31,6 @@ public class NewDataInputTest extends BaseTest {
         newDataInput.sendNewMobilePhone(newMobile);
         newDataInput.sendReferenceAddress(referenceAdress);
         newDataInput.clickSave();
-        assertEquals("EPER UTCA",newDataInput.addressName());
+        Assertions.assertEquals("EPER UTCA",newDataInput.addressName());
     }
 }

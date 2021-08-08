@@ -1,11 +1,10 @@
 package logout;
 
 import base.BaseTest;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.Logout;
 
-
-import static org.junit.Assert.assertEquals;
 
 public class LogoutTest extends BaseTest {
 
@@ -17,6 +16,6 @@ public class LogoutTest extends BaseTest {
         login.clicksignInButton();
         Logout logout=new Logout(driver);
         logout.clickSignOut();
-        assertEquals("Sign in",logout.signIn());
+        Assertions.assertEquals("Sign in",logout.signIn());
     }
 }

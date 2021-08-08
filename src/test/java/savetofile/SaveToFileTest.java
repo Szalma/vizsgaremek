@@ -1,10 +1,9 @@
 package savetofile;
 
 import base.BaseTest;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.SaveToFile;
-
-import static org.junit.Assert.assertEquals;
 
 public class SaveToFileTest extends BaseTest {
 
@@ -17,6 +16,6 @@ public class SaveToFileTest extends BaseTest {
         SaveToFile saveToFile=new SaveToFile(driver);
         saveToFile.clickAboutUs();
         saveToFile.save();
-        assertEquals("We are a team of technology enthusiasts and our primary goal for this website and company is to give you a platform to practice Continuous Test Automation. We are a subsidiary of seleniumframework.com",saveToFile.contain());
+        Assertions.assertEquals("We are a team of technology enthusiasts and our primary goal for this website and company is to give you a platform to practice Continuous Test Automation. We are a subsidiary of seleniumframework.com",saveToFile.contain());
     }
 }
