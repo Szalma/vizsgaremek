@@ -1,111 +1,111 @@
 [ {
-  "uid" : "7a2d5a13d69f9d68",
-  "name" : "deleteTest()",
-  "time" : {
-    "start" : 1628420332761,
-    "stop" : 1628420365298,
-    "duration" : 32537
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "1410f0b88a0dc2d6",
+  "uid" : "b2e0ff4f5ef325b7",
   "name" : "successfulRegistrationTest()",
   "time" : {
-    "start" : 1628420495593,
-    "stop" : 1628420529607,
-    "duration" : 34014
+    "start" : 1628422912652,
+    "stop" : 1628422938527,
+    "duration" : 25875
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "55f9d512e5a9975b",
-  "name" : "successLogin()",
-  "time" : {
-    "start" : 1628420474739,
-    "stop" : 1628420495589,
-    "duration" : 20850
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f4e9e2e566910c58",
-  "name" : "saveTest()",
-  "time" : {
-    "start" : 1628420365385,
-    "stop" : 1628420372362,
-    "duration" : 6977
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "41d5bd8513067333",
-  "name" : "privacyPolicyTest()",
-  "time" : {
-    "start" : 1628420380638,
-    "stop" : 1628420388013,
-    "duration" : 7375
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "b1e959ba9a2a8470",
+  "uid" : "d958f1ed5c31bfa1",
   "name" : "repeatedDataInputTest()",
   "time" : {
-    "start" : 1628420388023,
-    "stop" : 1628420397834,
-    "duration" : 9811
-  },
-  "status" : "failed",
-  "severity" : "normal"
-}, {
-  "uid" : "3401bc7c99aee760",
-  "name" : "creatDataList()",
-  "time" : {
-    "start" : 1628420446122,
-    "stop" : 1628420474731,
-    "duration" : 28609
+    "start" : 1628422783897,
+    "stop" : 1628422820526,
+    "duration" : 36629
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6a632998a2578648",
-  "name" : "updateTest()",
+  "uid" : "1c42382fc38cc3c5",
+  "name" : "saveTest()",
   "time" : {
-    "start" : 1628420397838,
-    "stop" : 1628420406901,
-    "duration" : 9063
+    "start" : 1628422720818,
+    "stop" : 1628422741079,
+    "duration" : 20261
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "8480f2e35c1bd82d",
+  "uid" : "31599420e4e0bf5f",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1628422764439,
+    "stop" : 1628422783890,
+    "duration" : 19451
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e4aaa55f8a91b434",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1628422906792,
+    "stop" : 1628422912642,
+    "duration" : 5850
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1d9bde61c63df523",
   "name" : "signoutTest()",
   "time" : {
-    "start" : 1628420372371,
-    "stop" : 1628420380633,
-    "duration" : 8262
+    "start" : 1628422741090,
+    "stop" : 1628422764434,
+    "duration" : 23344
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "fc857500409b799e",
-  "name" : "successDataEntry()",
+  "uid" : "6ad67387a8a5e211",
+  "name" : "deleteTest()",
   "time" : {
-    "start" : 1628420406916,
-    "stop" : 1628420446107,
-    "duration" : 39191
+    "start" : 1628422681817,
+    "stop" : 1628422720720,
+    "duration" : 38903
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "1d16da4487792138",
-  "name" : "multiPageListTest()",
+  "uid" : "8225d869b1f1e23c",
+  "name" : "creatDataList()",
   "time" : {
-    "start" : 1628420529617,
-    "stop" : 1628420546588,
-    "duration" : 16971
+    "start" : 1628422893395,
+    "stop" : 1628422906782,
+    "duration" : 13387
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "72af5825c7e59ce8",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1628422938533,
+    "stop" : 1628422961700,
+    "duration" : 23167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5d6139c8e8af211e",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1628422820530,
+    "stop" : 1628422848142,
+    "duration" : 27612
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "81994a56533ae748",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1628422848149,
+    "stop" : 1628422893386,
+    "duration" : 45237
+  },
+  "status" : "broken",
   "severity" : "normal"
 } ]
