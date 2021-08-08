@@ -1,6 +1,7 @@
 package privacypolicy;
 
 import base.BaseTest;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.PrivacyPolicy;
 
@@ -14,5 +15,6 @@ public class PrivacyPolicyTest extends BaseTest {
         login.clicksignInButton();
         PrivacyPolicy privacyPolicyTest=new PrivacyPolicy(driver);
         privacyPolicyTest.clickTermsAndConditionsOfUse();
+        Assertions.assertEquals("TERMS AND CONDITIONS OF USE",privacyPolicyTest.text());
     }
 }

@@ -13,6 +13,7 @@ public class MultiPageList {
     private final By WOMEN=By.xpath("//*[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li[1]/a");
     private final By TOPS=By.xpath("//*[@class='clearfix']/li[1]/div[1]/a[1]");
     private final By T_SHIRTS=By.xpath("//*[@id=\"subcategories\"]/ul/li[1]/div/a");
+    private final By TEXT=By.xpath("//*[@id=\"center_column\"]/h1/span[1]");
 
     public MultiPageList(WebDriver driver){
         this.driver=driver;
@@ -40,5 +41,9 @@ public class MultiPageList {
     }
     public void clickTShirts(){
         driver.findElement(T_SHIRTS).click();
+    }
+
+    public String text(){
+        return driver.findElement(TEXT).getText();
     }
 }

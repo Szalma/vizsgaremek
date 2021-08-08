@@ -15,9 +15,7 @@ public class DeleteDataTest extends BaseTest {
         login.clicksignInButton();
         DeleteData deleteData=new DeleteData(driver);
         deleteData.clickT_Shirts();
-        deleteData.clickAddToCart();
-        deleteData.clickProcedToCheckout();
-        deleteData.clickDelete();
-       Assertions.assertEquals("Your shopping cart is empty.", deleteData.emptyCart());
+        deleteData.clickAddToCompare();
+       Assertions.assertEquals("Add to Compare", deleteData.emptyCart());
     }
 }

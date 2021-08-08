@@ -35,8 +35,8 @@ public class BaseTest {
 
     }
 
-    @AfterEach
+    /*@AfterEach
     public void quit(){
         driver.quit();
-    }
+    }*/
 }

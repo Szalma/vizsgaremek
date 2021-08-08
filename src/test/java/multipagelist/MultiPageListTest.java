@@ -1,6 +1,7 @@
 package multipagelist;
 
 import base.BaseTest;
+import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.MultiPageList;
 
@@ -19,5 +20,6 @@ public class MultiPageListTest extends BaseTest {
         multiPageList.scroll2();
         multiPageList.clickTShirts();
         multiPageList.scroll2();
+        Assertions.assertEquals("T-SHIRTS ",multiPageList.text());
     }
 }
