@@ -1,0 +1,101 @@
+[ {
+  "uid" : "fa02cc9f46ca1bfc",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629203977054,
+    "stop" : 1629204041194,
+    "duration" : 64140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9897bedf45519dd1",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629203912711,
+    "stop" : 1629203977049,
+    "duration" : 64338
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "560285bf3a9fe1b3",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629204115568,
+    "stop" : 1629204152518,
+    "duration" : 36950
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "274941bc42412abe",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629204194063,
+    "stop" : 1629204228398,
+    "duration" : 34335
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d203b5cec3fe7ec",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1629204086509,
+    "stop" : 1629204115559,
+    "duration" : 29050
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcf8a5d5688b20c2",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1629204041201,
+    "stop" : 1629204066044,
+    "duration" : 24843
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f7b00c8a851ecae1",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629203817721,
+    "stop" : 1629203878125,
+    "duration" : 60404
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "821a648f41749e60",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1629204152526,
+    "stop" : 1629204194035,
+    "duration" : 41509
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cecdec81457cbab",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629203878228,
+    "stop" : 1629203912702,
+    "duration" : 34474
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "15592b3396a758ec",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629204066067,
+    "stop" : 1629204086501,
+    "duration" : 20434
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
