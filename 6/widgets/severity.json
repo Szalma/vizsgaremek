@@ -1,110 +1,100 @@
 [ {
-  "uid" : "3aed5964937298f3",
-  "name" : "successLogin()",
+  "uid" : "1e3914cdabf702bc",
+  "name" : "delete()",
   "time" : {
-    "start" : 1628423103813,
-    "stop" : 1628423108498,
-    "duration" : 4685
+    "start" : 1629204087872,
+    "stop" : 1629204112979,
+    "duration" : 25107
   },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "9eb3e964e7551885",
-  "name" : "privacyPolicyTest()",
-  "time" : {
-    "start" : 1628423030615,
-    "stop" : 1628423037656,
-    "duration" : 7041
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c3727a80af436468",
-  "name" : "repeatedDataInputTest()",
-  "time" : {
-    "start" : 1628423037665,
-    "stop" : 1628423051182,
-    "duration" : 13517
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e6730b5c1082ad4b",
+  "uid" : "9cffbeac8002e8ed",
   "name" : "creatDataList()",
   "time" : {
-    "start" : 1628423096985,
-    "stop" : 1628423103808,
-    "duration" : 6823
+    "start" : 1629204112994,
+    "stop" : 1629204140979,
+    "duration" : 27985
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "82348a093fade3f2",
-  "name" : "successfulRegistrationTest()",
+  "uid" : "ccfdbd9b2b12f63b",
+  "name" : "successLogin()",
   "time" : {
-    "start" : 1628423108502,
-    "stop" : 1628423132064,
-    "duration" : 23562
+    "start" : 1629204140983,
+    "stop" : 1629204187668,
+    "duration" : 46685
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "eae37eb46e700b79",
-  "name" : "multiPageListTest()",
-  "time" : {
-    "start" : 1628423132073,
-    "stop" : 1628423142355,
-    "duration" : 10282
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "bc6a87d2f668de52",
-  "name" : "updateTest()",
-  "time" : {
-    "start" : 1628423051187,
-    "stop" : 1628423063788,
-    "duration" : 12601
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "acdc5dca6bc5866c",
-  "name" : "signoutTest()",
-  "time" : {
-    "start" : 1628423024149,
-    "stop" : 1628423030611,
-    "duration" : 6462
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "416183bfca988520",
-  "name" : "deleteTest()",
-  "time" : {
-    "start" : 1628422997751,
-    "stop" : 1628423018412,
-    "duration" : 20661
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "17eefe366d79b62",
-  "name" : "saveTest()",
-  "time" : {
-    "start" : 1628423018511,
-    "stop" : 1628423024134,
-    "duration" : 5623
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "483c19bb382466a5",
+  "uid" : "559b457ce41536fa",
   "name" : "successDataEntry()",
   "time" : {
-    "start" : 1628423063794,
-    "stop" : 1628423096969,
-    "duration" : 33175
+    "start" : 1629204009371,
+    "stop" : 1629204087868,
+    "duration" : 78497
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c46ad3f6206921e7",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1629204187695,
+    "stop" : 1629204229180,
+    "duration" : 41485
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "bb5a3c0ea3ca8209",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629203870826,
+    "stop" : 1629203890917,
+    "duration" : 20091
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2fa174f455872fbb",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629203890926,
+    "stop" : 1629203957776,
+    "duration" : 66850
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "db3573cc79294936",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629203957787,
+    "stop" : 1629204009365,
+    "duration" : 51578
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d0c961f7ea39afa1",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629203812101,
+    "stop" : 1629203870728,
+    "duration" : 58627
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c4f07494c81328ba",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629204229186,
+    "stop" : 1629204253998,
+    "duration" : 24812
   },
   "status" : "broken",
   "severity" : "normal"
