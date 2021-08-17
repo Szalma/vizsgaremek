@@ -1,101 +1,111 @@
 [ {
-  "uid" : "ef824e1faa727208",
-  "name" : "successfulRegistrationTest()",
+  "uid" : "aa4704a52d8ba54f",
+  "name" : "deleteTest()",
   "time" : {
-    "start" : 1629203589749,
-    "stop" : 1629203589905,
-    "duration" : 156
+    "start" : 1628423005434,
+    "stop" : 1628423028987,
+    "duration" : 23553
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "82e291d606cb0dfc",
-  "name" : "privacyPolicyTest()",
-  "time" : {
-    "start" : 1629203588551,
-    "stop" : 1629203588707,
-    "duration" : 156
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "e5470c7302673bd5",
-  "name" : "delete()",
-  "time" : {
-    "start" : 1629203589257,
-    "stop" : 1629203589404,
-    "duration" : 147
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "5c49e19a608610d5",
-  "name" : "successLogin()",
-  "time" : {
-    "start" : 1629203589585,
-    "stop" : 1629203589738,
-    "duration" : 153
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "afad046b9471767e",
+  "uid" : "bce7296716eb31eb",
   "name" : "signoutTest()",
   "time" : {
-    "start" : 1629203587853,
-    "stop" : 1629203588485,
-    "duration" : 632
+    "start" : 1628423036547,
+    "stop" : 1628423046077,
+    "duration" : 9530
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a92afb8b078fad9e",
-  "name" : "creatDataList()",
+  "uid" : "c94a1bbd8cff5fcd",
+  "name" : "saveTest()",
   "time" : {
-    "start" : 1629203589419,
-    "stop" : 1629203589568,
-    "duration" : 149
+    "start" : 1628423029080,
+    "stop" : 1628423036542,
+    "duration" : 7462
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "fa1ab354774fe585",
-  "name" : "successDataEntry()",
+  "uid" : "c984ec393987cbd7",
+  "name" : "privacyPolicyTest()",
   "time" : {
-    "start" : 1629203589080,
-    "stop" : 1629203589247,
-    "duration" : 167
+    "start" : 1628423046085,
+    "stop" : 1628423053110,
+    "duration" : 7025
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c2f73b085c334072",
+  "uid" : "282ccb70a6599f57",
   "name" : "multiPageListTest()",
   "time" : {
-    "start" : 1629203589918,
-    "stop" : 1629203590083,
-    "duration" : 165
+    "start" : 1628423147941,
+    "stop" : 1628423159179,
+    "duration" : 11238
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5ff8bfe6bc762084",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1628423123330,
+    "stop" : 1628423147928,
+    "duration" : 24598
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "242201cf03dd0bcc",
+  "uid" : "fd7517cab81fb7c4",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1628423081236,
+    "stop" : 1628423109385,
+    "duration" : 28149
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b4a0bb1d605601ef",
   "name" : "repeatedDataInputTest()",
   "time" : {
-    "start" : 1629203588728,
-    "stop" : 1629203588891,
-    "duration" : 163
+    "start" : 1628423053118,
+    "stop" : 1628423067060,
+    "duration" : 13942
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "6c7be521c12a998b",
+  "uid" : "d8d6d8bc2785f81c",
   "name" : "updateTest()",
   "time" : {
-    "start" : 1629203588911,
-    "stop" : 1629203589072,
-    "duration" : 161
+    "start" : 1628423067069,
+    "stop" : 1628423081225,
+    "duration" : 14156
   },
-  "status" : "broken",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c80fa4e12da3dc9a",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1628423117173,
+    "stop" : 1628423123322,
+    "duration" : 6149
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ccd80b696688cbb9",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1628423109405,
+    "stop" : 1628423117168,
+    "duration" : 7763
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]
