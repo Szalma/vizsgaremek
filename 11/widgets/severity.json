@@ -1,110 +1,100 @@
 [ {
-  "uid" : "121d9ffc86df8f20",
+  "uid" : "75a3d9a440587b03",
   "name" : "updateTest()",
   "time" : {
-    "start" : 1628445999605,
-    "stop" : 1628446031238,
-    "duration" : 31633
+    "start" : 1629204314828,
+    "stop" : 1629204334751,
+    "duration" : 19923
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c9f7163b8d73c0a6",
-  "name" : "successLogin()",
-  "time" : {
-    "start" : 1628446100683,
-    "stop" : 1628446113009,
-    "duration" : 12326
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d5636bb7e9ffa4bb",
-  "name" : "saveTest()",
-  "time" : {
-    "start" : 1628445851785,
-    "stop" : 1628445888901,
-    "duration" : 37116
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "ac406814c8d40cdf",
-  "name" : "successfulRegistrationTest()",
-  "time" : {
-    "start" : 1628446113016,
-    "stop" : 1628446140464,
-    "duration" : 27448
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "a643923cfcb1aa",
-  "name" : "successDataEntry()",
-  "time" : {
-    "start" : 1628446031244,
-    "stop" : 1628446080519,
-    "duration" : 49275
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "bb8b15e40bf81345",
-  "name" : "signoutTest()",
-  "time" : {
-    "start" : 1628445888916,
-    "stop" : 1628445930900,
-    "duration" : 41984
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8da4888d19eb0a65",
-  "name" : "repeatedDataInputTest()",
-  "time" : {
-    "start" : 1628445957632,
-    "stop" : 1628445999602,
-    "duration" : 41970
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "1a5a6f56cb98a9f",
-  "name" : "creatDataList()",
-  "time" : {
-    "start" : 1628446080528,
-    "stop" : 1628446100659,
-    "duration" : 20131
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a467d9485f547b44",
+  "uid" : "115fde5d776e3a51",
   "name" : "privacyPolicyTest()",
   "time" : {
-    "start" : 1628445930907,
-    "stop" : 1628445957629,
-    "duration" : 26722
+    "start" : 1629204251245,
+    "stop" : 1629204268419,
+    "duration" : 17174
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e7fe198302d244d5",
-  "name" : "deleteTest()",
+  "uid" : "2f65310a969fb85f",
+  "name" : "successfulRegistrationTest()",
   "time" : {
-    "start" : 1628445808770,
-    "stop" : 1628445851704,
-    "duration" : 42934
+    "start" : 1629204485036,
+    "stop" : 1629204522283,
+    "duration" : 37247
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "18081e88e4ae8d96",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629204268428,
+    "stop" : 1629204314824,
+    "duration" : 46396
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "63ad2e3e78be703c",
+  "uid" : "db7afd6beace2610",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1629204430988,
+    "stop" : 1629204450316,
+    "duration" : 19328
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cf060e913c32c0e",
   "name" : "multiPageListTest()",
   "time" : {
-    "start" : 1628446140474,
-    "stop" : 1628446152477,
-    "duration" : 12003
+    "start" : 1629204522295,
+    "stop" : 1629204552417,
+    "duration" : 30122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "351bf014e6c89be5",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629204203638,
+    "stop" : 1629204251160,
+    "duration" : 47522
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fb73bfb5d6c687b9",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1629204334760,
+    "stop" : 1629204379319,
+    "duration" : 44559
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dcc069146876e13f",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629204379329,
+    "stop" : 1629204430962,
+    "duration" : 51633
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6a3c9ee3a433eedf",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629204450319,
+    "stop" : 1629204485033,
+    "duration" : 34714
   },
   "status" : "passed",
   "severity" : "normal"
