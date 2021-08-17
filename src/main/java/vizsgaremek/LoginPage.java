@@ -2,6 +2,8 @@ package vizsgaremek;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class LoginPage {
     WebDriver driver;
@@ -17,6 +19,8 @@ public class LoginPage {
     }
 
     public void clickLogin(){
+        WebDriverWait wait=new WebDriverWait(driver,10);
+        wait.until(ExpectedConditions.elementToBeClickable(LOGIN));
         driver.findElement(LOGIN).click();
     }
 

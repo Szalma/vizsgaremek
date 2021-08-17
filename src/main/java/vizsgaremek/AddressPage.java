@@ -2,7 +2,9 @@ package vizsgaremek;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.Select;
+import org.openqa.selenium.support.ui.WebDriverWait;
 
 
 public class AddressPage {
@@ -19,6 +21,7 @@ public class AddressPage {
     private final By SAVE =By.xpath("//*[@id=\"submitAddress\"]/span");
     private final By NEW_ADDRESS_NAME =By.xpath("//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3");
     private final By DELETE=By.xpath("//*[@class='last_item alternate_item box']/li[9]/a[2]/span");
+    private final By TEXT=By.xpath("//*[@id=\"center_column\"]/div[1]/div");
 
     public AddressPage ( WebDriver diver){
         this.driver=diver;
@@ -62,6 +65,8 @@ public class AddressPage {
     }
 
     public String addressName(){
+        WebDriverWait wait=new WebDriverWait(driver,10);
+        wait.until(ExpectedConditions.visibilityOfAllElements(driver.findElements(NEW_ADDRESS_NAME)));
         return driver.findElement(NEW_ADDRESS_NAME).getText();
     }
 
@@ -71,5 +76,9 @@ public class AddressPage {
 
     public void accept(){
         driver.switchTo().alert().accept();
+    }
+
+    public String remainingText(){
+        return driver.findElement(TEXT).getText();
     }
 }

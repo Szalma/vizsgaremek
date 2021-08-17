@@ -42,13 +42,21 @@ public class NewDataInputTest extends BaseTest {
     @Test
     @Order(2)
     public void delete(){
-        newDataInput =new AddressPage(getDriver());
         login.clickLogin();
         login.sendEmailAddress(email);
         login.sendPassword(password);
         login.clicksignInButton();
+        newDataInput =new AddressPage(getDriver());
         newDataInput.clickMyAddressesButton();
         newDataInput.clickdelete();
         newDataInput.accept();
+        Assertions.assertEquals("MY ADDRESS\n" +
+                "Stefi Stefi\n" +
+                "Eper utca\n" +
+                "Szombathely, New York 96530\n" +
+                "United States\n" +
+                "06203333333\n" +
+                "Update\n" +
+                "Delete",newDataInput.remainingText() );
     }
 }
