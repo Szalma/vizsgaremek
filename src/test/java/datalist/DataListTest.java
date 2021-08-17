@@ -3,7 +3,7 @@ package datalist;
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vizsgaremek.DataList;
+import vizsgaremek.SitemapPage;
 
 public class DataListTest extends BaseTest {
 
@@ -11,11 +11,7 @@ public class DataListTest extends BaseTest {
 
     @Test
     public void creatDataList(){
-        login.clickLogin();
-        login.sendEmailAddress(email);
-        login.sendPassword(password);
-        login.clicksignInButton();
-        DataList datalist=new DataList(driver);
+        SitemapPage datalist=new SitemapPage(getDriver());
         datalist.clickAboutUs();
         boolean result=datalist.creatDataList(title);
         Assertions.assertTrue(result);

@@ -3,18 +3,16 @@ package privacypolicy;
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vizsgaremek.PrivacyPolicy;
+import vizsgaremek.PrivacyPolicyPage;
 
 public class PrivacyPolicyTest extends BaseTest {
 
+
     @Test
     public void privacyPolicyTest(){
-        login.clickLogin();
-        login.sendEmailAddress(email);
-        login.sendPassword(password);
-        login.clicksignInButton();
-        PrivacyPolicy privacyPolicyTest=new PrivacyPolicy(driver);
-        privacyPolicyTest.clickTermsAndConditionsOfUse();
-        Assertions.assertEquals("TERMS AND CONDITIONS OF USE",privacyPolicyTest.text());
+        PrivacyPolicyPage privacyPolicy=new PrivacyPolicyPage(getDriver());
+        privacyPolicy.clickTermsAndConditionsOfUse();
+        privacyPolicy.saveToFile();
+        Assertions.assertEquals(privacyPolicy.TermsAndConditionsOfUse(),privacyPolicy.text());
     }
 }

@@ -3,7 +3,7 @@ package vizsgaremek;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class UpdateAddress {
+public class UpdateAddressPage {
 
     WebDriver driver;
     private final By UPDATE =By.xpath("//*[@id=\"center_column\"]/div[1]/div/div[1]/ul/li[9]/a[1]");
@@ -14,7 +14,7 @@ public class UpdateAddress {
     private final By NEW_ADDRESS_NAME =By.xpath("//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3");
     private final By NEW_MOBILE =By.xpath("//*[@id=\"center_column\"]/div[1]/div/div/ul/li[8]/span");
 
-    public UpdateAddress(WebDriver driver){
+    public UpdateAddressPage ( WebDriver driver){
         this.driver=driver;
     }
 

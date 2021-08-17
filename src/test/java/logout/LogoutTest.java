@@ -3,7 +3,7 @@ package logout;
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vizsgaremek.Logout;
+import vizsgaremek.LogoutPage;
 
 
 public class LogoutTest extends BaseTest {
@@ -14,7 +14,7 @@ public class LogoutTest extends BaseTest {
         login.sendEmailAddress(email);
         login.sendPassword(password);
         login.clicksignInButton();
-        Logout logout=new Logout(driver);
+        LogoutPage logout=new LogoutPage(getDriver());
         logout.clickSignOut();
         Assertions.assertEquals("Sign in",logout.signIn());
     }

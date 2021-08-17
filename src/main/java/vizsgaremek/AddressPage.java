@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.support.ui.Select;
 
 
-public class NewDataInput {
+public class AddressPage {
 
     WebDriver driver;
     public final By MY_ADDRESSES =By.xpath("//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a/span");
@@ -18,8 +18,9 @@ public class NewDataInput {
     private final By REFERENCE_ADDRESS =By.id("alias");
     private final By SAVE =By.xpath("//*[@id=\"submitAddress\"]/span");
     private final By NEW_ADDRESS_NAME =By.xpath("//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3");
+    private final By DELETE=By.xpath("//*[@class='last_item alternate_item box']/li[9]/a[2]/span");
 
-    public NewDataInput ( WebDriver diver){
+    public AddressPage ( WebDriver diver){
         this.driver=diver;
     }
 
@@ -62,5 +63,13 @@ public class NewDataInput {
 
     public String addressName(){
         return driver.findElement(NEW_ADDRESS_NAME).getText();
+    }
+
+    public void clickdelete(){
+        driver.findElement(DELETE).click();
+    }
+
+    public void accept(){
+        driver.switchTo().alert().accept();
     }
 }

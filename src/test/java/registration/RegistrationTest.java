@@ -3,7 +3,7 @@ package registration;
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vizsgaremek.Registration;
+import vizsgaremek.RegistrationPage;
 
 public class RegistrationTest extends BaseTest {
     private String email="stefi2@gmail.com";
@@ -20,7 +20,7 @@ public class RegistrationTest extends BaseTest {
     @Test
     public void successfulRegistrationTest(){
 
-        Registration registration=new Registration(driver);
+        RegistrationPage registration=new RegistrationPage(getDriver());
         registration.clickLogin();
         registration.sendEmailAddress(email);
         registration.clickCreateAnAccount();

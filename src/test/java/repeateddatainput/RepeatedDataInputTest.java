@@ -3,7 +3,7 @@ package repeateddatainput;
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import vizsgaremek.RepeatedDataInput;
+import vizsgaremek.MyWishlistPage;
 
 
 public class RepeatedDataInputTest extends BaseTest {
@@ -14,7 +14,7 @@ public class RepeatedDataInputTest extends BaseTest {
         login.sendEmailAddress(email);
         login.sendPassword(password);
         login.clicksignInButton();
-        RepeatedDataInput repeatedDataInput=new RepeatedDataInput(driver);
+        MyWishlistPage repeatedDataInput=new MyWishlistPage(getDriver());
         repeatedDataInput.clickMyWishlists();
         repeatedDataInput.SEND_NAME();
         Assertions.assertEquals("T-SHIRT",repeatedDataInput.contetsOfTheTable());

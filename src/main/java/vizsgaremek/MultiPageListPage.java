@@ -8,14 +8,14 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.util.concurrent.TimeUnit;
 
-public class MultiPageList {
+public class MultiPageListPage {
     WebDriver driver;
     private final By WOMEN=By.xpath("//*[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li[1]/a");
     private final By TOPS=By.xpath("//*[@class='clearfix']/li[1]/div[1]/a[1]");
     private final By T_SHIRTS=By.xpath("//*[@id=\"subcategories\"]/ul/li[1]/div/a");
-    private final By TEXT=By.xpath("//*[@id=\"center_column\"]/h1/span[1]");
+    private final By TEXT=By.xpath("//*[@id=\"center_column\"]/h1/span[2]");
 
-    public MultiPageList(WebDriver driver){
+    public MultiPageListPage ( WebDriver driver){
         this.driver=driver;
     }
     public void clickWomen(){

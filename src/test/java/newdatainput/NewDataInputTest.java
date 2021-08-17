@@ -1,9 +1,10 @@
 package newdatainput;
 
 import base.BaseTest;
-import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.Test;
-import vizsgaremek.NewDataInput;
+import org.junit.jupiter.api.*;
+import vizsgaremek.AddressPage;
+@TestMethodOrder(MethodOrderer.OrderAnnotation.class)
+
 
 
 public class NewDataInputTest extends BaseTest {
@@ -14,14 +15,16 @@ public class NewDataInputTest extends BaseTest {
     private int newZip =44444;
     private String newMobile ="06208866456";
     private String referenceAdress="Eper utca";
+    AddressPage newDataInput;
 
     @Test
+    @Order(1)
     public void successDataEntry(){
+       newDataInput =new AddressPage(getDriver());
         login.clickLogin();
         login.sendEmailAddress(email);
         login.sendPassword(password);
         login.clicksignInButton();
-        NewDataInput newDataInput=new NewDataInput(driver);
         newDataInput.clickMyAddressesButton();
         newDataInput.clickAddANewAddress();
         newDataInput.sendNewAddress(newAddress);
@@ -32,5 +35,20 @@ public class NewDataInputTest extends BaseTest {
         newDataInput.sendReferenceAddress(referenceAdress);
         newDataInput.clickSave();
         Assertions.assertEquals("EPER UTCA",newDataInput.addressName());
+
+    }
+
+
+    @Test
+    @Order(2)
+    public void delete(){
+        newDataInput =new AddressPage(getDriver());
+        login.clickLogin();
+        login.sendEmailAddress(email);
+        login.sendPassword(password);
+        login.clicksignInButton();
+        newDataInput.clickMyAddressesButton();
+        newDataInput.clickdelete();
+        newDataInput.accept();
     }
 }

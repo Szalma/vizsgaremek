@@ -3,7 +3,7 @@ package vizsgaremek;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class Login {
+public class LoginPage {
     WebDriver driver;
     private final By LOGIN=By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a");
     private final By EMAIL_ADDRESS =By.id("email");
@@ -12,7 +12,7 @@ public class Login {
     private final By ACCOUNT_NAME =By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a/span");
 
 
-    public Login ( WebDriver driver){
+    public LoginPage ( WebDriver driver){
         this.driver=driver;
     }
 
