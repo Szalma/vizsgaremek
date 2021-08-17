@@ -1,101 +1,101 @@
 [ {
-  "uid" : "c98fe8cf7b8e620a",
-  "name" : "updateTest()",
-  "time" : {
-    "start" : 1629203576382,
-    "stop" : 1629203576546,
-    "duration" : 164
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "817f9c306d11e41a",
-  "name" : "creatDataList()",
-  "time" : {
-    "start" : 1629203576891,
-    "stop" : 1629203577051,
-    "duration" : 160
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "a09e65a059798b7",
-  "name" : "successfulRegistrationTest()",
-  "time" : {
-    "start" : 1629203577222,
-    "stop" : 1629203577380,
-    "duration" : 158
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "80479e7caf7a21cc",
-  "name" : "privacyPolicyTest()",
-  "time" : {
-    "start" : 1629203576020,
-    "stop" : 1629203576193,
-    "duration" : 173
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "d57adc36cbd18dc",
-  "name" : "signoutTest()",
-  "time" : {
-    "start" : 1629203572115,
-    "stop" : 1629203575926,
-    "duration" : 3811
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "49d40ba37942b756",
+  "uid" : "52cca8007394bda4",
   "name" : "repeatedDataInputTest()",
   "time" : {
-    "start" : 1629203576210,
-    "stop" : 1629203576361,
-    "duration" : 151
+    "start" : 1629215970120,
+    "stop" : 1629216022286,
+    "duration" : 52166
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "14699ef342c3486f",
-  "name" : "successLogin()",
+  "uid" : "e72d669f3c1a0d51",
+  "name" : "creatDataList()",
   "time" : {
-    "start" : 1629203577061,
-    "stop" : 1629203577209,
-    "duration" : 148
+    "start" : 1629216191292,
+    "stop" : 1629216203145,
+    "duration" : 11853
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b0218d3c6526e2cb",
-  "name" : "multiPageListTest()",
-  "time" : {
-    "start" : 1629203577385,
-    "stop" : 1629203577525,
-    "duration" : 140
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "6d4f730022d0e883",
+  "uid" : "d7cf219c4c4ebd6d",
   "name" : "successDataEntry()",
   "time" : {
-    "start" : 1629203576552,
-    "stop" : 1629203576702,
-    "duration" : 150
+    "start" : 1629216071783,
+    "stop" : 1629216130108,
+    "duration" : 58325
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "b7be83b517f3f3cc",
-  "name" : "delete()",
+  "uid" : "e4df2da02cc6cca2",
+  "name" : "successfulRegistrationTest()",
   "time" : {
-    "start" : 1629203576709,
-    "stop" : 1629203576873,
-    "duration" : 164
+    "start" : 1629216223553,
+    "stop" : 1629216250733,
+    "duration" : 27180
   },
   "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2bd08f03707818f0",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629215955297,
+    "stop" : 1629215970111,
+    "duration" : 14814
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d077f247d1b4df7e",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629215922412,
+    "stop" : 1629215955214,
+    "duration" : 32802
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e2ab970d7632236a",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629216130121,
+    "stop" : 1629216191283,
+    "duration" : 61162
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "65e119a8694f2358",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629216250751,
+    "stop" : 1629216260481,
+    "duration" : 9730
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7498273089f64e1",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629216203154,
+    "stop" : 1629216223550,
+    "duration" : 20396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c8553de834fe9f48",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629216022289,
+    "stop" : 1629216071779,
+    "duration" : 49490
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]
