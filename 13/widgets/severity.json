@@ -1,0 +1,101 @@
+[ {
+  "uid" : "867a60025b30c214",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1629204128917,
+    "stop" : 1629204156835,
+    "duration" : 27918
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82c939b3926f2356",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629204230839,
+    "stop" : 1629204266414,
+    "duration" : 35575
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "35e65cb2fcc80d81",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629203904539,
+    "stop" : 1629203965677,
+    "duration" : 61138
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5a490de4241ea1e0",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1629204188856,
+    "stop" : 1629204230825,
+    "duration" : 41969
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "63f1c91f4285cba1",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629203965689,
+    "stop" : 1629204033319,
+    "duration" : 67630
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0ae4b7f21c5a528",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1629204033324,
+    "stop" : 1629204103029,
+    "duration" : 69705
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ef103a0ef838771d",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629203812007,
+    "stop" : 1629203886881,
+    "duration" : 74874
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e403eb1a935d4316",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629204156847,
+    "stop" : 1629204188852,
+    "duration" : 32005
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "d3349c72a17b61b2",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629204103036,
+    "stop" : 1629204128898,
+    "duration" : 25862
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5b070c0c0e0efc4a",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629203886994,
+    "stop" : 1629203904534,
+    "duration" : 17540
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
