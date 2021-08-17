@@ -1,4 +1,12 @@
 [ {
+  "buildOrder" : 7,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 10,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 15,
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/15/",
   "reportName" : "Allure Report with history",
@@ -145,14 +153,6 @@
 }, {
   "buildOrder" : 9,
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/9/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 11,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 5,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/5/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 11,
