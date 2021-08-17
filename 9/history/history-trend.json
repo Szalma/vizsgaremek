@@ -6,6 +6,90 @@
     "failed" : 0,
     "broken" : 2,
     "skipped" : 0,
+    "passed" : 8,
+    "unknown" : 0,
+    "total" : 10
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 4,
+    "skipped" : 0,
+    "passed" : 6,
+    "unknown" : 0,
+    "total" : 10
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 7,
+    "skipped" : 0,
+    "passed" : 3,
+    "unknown" : 0,
+    "total" : 10
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 5,
+    "skipped" : 0,
+    "passed" : 5,
+    "unknown" : 0,
+    "total" : 10
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/10/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 10,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 10
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 10,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 10
+  }
+}, {
+  "buildOrder" : 7,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/7/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 2,
+    "skipped" : 0,
+    "passed" : 9,
+    "unknown" : 0,
+    "total" : 11
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
+    "broken" : 2,
+    "skipped" : 0,
     "passed" : 9,
     "unknown" : 0,
     "total" : 11
@@ -153,14 +237,5 @@
     "passed" : 7,
     "unknown" : 0,
     "total" : 11
-  }
-}, {
-  "data" : {
-    "failed" : 0,
-    "broken" : 0,
-    "skipped" : 0,
-    "passed" : 0,
-    "unknown" : 0,
-    "total" : 0
   }
 } ]
