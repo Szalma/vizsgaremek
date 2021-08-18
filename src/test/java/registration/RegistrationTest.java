@@ -2,8 +2,10 @@ package registration;
 
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.RegistrationPage;
+
 
 public class RegistrationTest extends BaseTest {
     private String email="stefi2@gmail.com";
@@ -17,6 +19,7 @@ public class RegistrationTest extends BaseTest {
     private String mobile="06305569455";
 
 
+    @Disabled
     @Test
     public void successfulRegistrationTest(){
 
