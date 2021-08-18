@@ -4,13 +4,13 @@
     "name" : "logout.LogoutTest",
     "children" : [ {
       "name" : "signoutTest()",
-      "uid" : "52234dbc3e71e29b",
+      "uid" : "e2b06e4c05c37a5e",
       "parentUid" : "9d2dbe5ca75b2a590386ac43a04ed3ee",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1629283411158,
-        "stop" : 1629283456302,
-        "duration" : 45144
+        "start" : 1629286463603,
+        "stop" : 1629286484793,
+        "duration" : 21190
       },
       "flaky" : false,
       "newFailed" : false,
@@ -21,13 +21,13 @@
     "name" : "privacypolicy.PrivacyPolicyTest",
     "children" : [ {
       "name" : "privacyPolicyTest()",
-      "uid" : "77fdeb400f776ccf",
+      "uid" : "76f2f076f12e71a6",
       "parentUid" : "b83a0ffd40c9049d7b5a92424a960378",
       "status" : "passed",
       "time" : {
-        "start" : 1629283456381,
-        "stop" : 1629283475949,
-        "duration" : 19568
+        "start" : 1629286484901,
+        "stop" : 1629286503248,
+        "duration" : 18347
       },
       "flaky" : false,
       "newFailed" : false,
@@ -38,13 +38,13 @@
     "name" : "repeateddatainput.RepeatedDataInputTest",
     "children" : [ {
       "name" : "repeatedDataInputTest()",
-      "uid" : "67f138c3200d95f4",
+      "uid" : "2235e208e4502cd9",
       "parentUid" : "7003bc901aa7f42dc2c96bb55ff8b294",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1629283475954,
-        "stop" : 1629283535109,
-        "duration" : 59155
+        "start" : 1629286503259,
+        "stop" : 1629286547850,
+        "duration" : 44591
       },
       "flaky" : false,
       "newFailed" : false,
@@ -55,13 +55,13 @@
     "name" : "udateaddress.UpdateAddressTest",
     "children" : [ {
       "name" : "updateTest()",
-      "uid" : "8b522a0d0225676d",
+      "uid" : "95a4f07ec4c68426",
       "parentUid" : "298db44241b4ee5456445552a17ffcb9",
       "status" : "passed",
       "time" : {
-        "start" : 1629283535114,
-        "stop" : 1629283596254,
-        "duration" : 61140
+        "start" : 1629286547862,
+        "stop" : 1629286569736,
+        "duration" : 21874
       },
       "flaky" : false,
       "newFailed" : false,
@@ -72,26 +72,26 @@
     "name" : "newdatainput.NewDataInputTest",
     "children" : [ {
       "name" : "successDataEntry()",
-      "uid" : "7765c7e6062db697",
+      "uid" : "2d0a44ccda7f2868",
       "parentUid" : "01db2c316a6c10b10ee6ac79cd60e638",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1629283596263,
-        "stop" : 1629283673394,
-        "duration" : 77131
+        "start" : 1629286569740,
+        "stop" : 1629286618582,
+        "duration" : 48842
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
       "name" : "delete()",
-      "uid" : "91c4c80f51ec8b5e",
+      "uid" : "4c92ab20f60f6211",
       "parentUid" : "01db2c316a6c10b10ee6ac79cd60e638",
       "status" : "broken",
       "time" : {
-        "start" : 1629283673408,
-        "stop" : 1629283704033,
-        "duration" : 30625
+        "start" : 1629286618586,
+        "stop" : 1629286650272,
+        "duration" : 31686
       },
       "flaky" : false,
       "newFailed" : false,
@@ -102,16 +102,16 @@
     "name" : "datalist.DataListTest",
     "children" : [ {
       "name" : "creatDataList()",
-      "uid" : "413ed40f9843bb6a",
+      "uid" : "4f6ecace1226f1b",
       "parentUid" : "37520ffc716288ff26b1a5b5ae2125ab",
       "status" : "failed",
       "time" : {
-        "start" : 1629283704047,
-        "stop" : 1629283736556,
-        "duration" : 32509
+        "start" : 1629286650291,
+        "stop" : 1629286684213,
+        "duration" : 33922
       },
-      "flaky" : false,
-      "newFailed" : false,
+      "flaky" : true,
+      "newFailed" : true,
       "parameters" : [ ]
     } ],
     "uid" : "37520ffc716288ff26b1a5b5ae2125ab"
@@ -119,13 +119,13 @@
     "name" : "login.LoginTest",
     "children" : [ {
       "name" : "successLogin()",
-      "uid" : "179528d017f49062",
+      "uid" : "179172e00ff771d3",
       "parentUid" : "b4388fd6319efc981a634ab840782df5",
       "status" : "broken",
       "time" : {
-        "start" : 1629283736562,
-        "stop" : 1629283756997,
-        "duration" : 20435
+        "start" : 1629286684225,
+        "stop" : 1629286704760,
+        "duration" : 20535
       },
       "flaky" : false,
       "newFailed" : false,
@@ -136,12 +136,12 @@
     "name" : "registration.RegistrationTest",
     "children" : [ {
       "name" : "successfulRegistrationTest()",
-      "uid" : "f3d66a51842c6857",
+      "uid" : "6de80d410435f19f",
       "parentUid" : "84c2b07bb9c9e7f8906d87c96f2545fe",
       "status" : "skipped",
       "time" : {
-        "start" : 1629283757013,
-        "stop" : 1629283757013,
+        "start" : 1629286704775,
+        "stop" : 1629286704775,
         "duration" : 0
       },
       "flaky" : false,
@@ -153,13 +153,13 @@
     "name" : "multipagelist.MultiPageListTest",
     "children" : [ {
       "name" : "multiPageListTest()",
-      "uid" : "a8441165cba3e390",
+      "uid" : "86902c3a56a1ce1d",
       "parentUid" : "aca1dfefc7964804da160afaaf3050ef",
       "status" : "passed",
       "time" : {
-        "start" : 1629283757027,
-        "stop" : 1629283792187,
-        "duration" : 35160
+        "start" : 1629286704790,
+        "stop" : 1629286735658,
+        "duration" : 30868
       },
       "flaky" : false,
       "newFailed" : false,
