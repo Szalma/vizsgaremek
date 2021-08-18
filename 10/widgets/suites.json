@@ -1,6 +1,17 @@
 {
   "total" : 9,
   "items" : [ {
+    "uid" : "01db2c316a6c10b10ee6ac79cd60e638",
+    "name" : "newdatainput.NewDataInputTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 2,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
     "uid" : "b4388fd6319efc981a634ab840782df5",
     "name" : "login.LoginTest",
     "statistic" : {
@@ -12,8 +23,8 @@
       "total" : 1
     }
   }, {
-    "uid" : "84c2b07bb9c9e7f8906d87c96f2545fe",
-    "name" : "registration.RegistrationTest",
+    "uid" : "aca1dfefc7964804da160afaaf3050ef",
+    "name" : "multipagelist.MultiPageListTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 1,
@@ -21,17 +32,6 @@
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
-    }
-  }, {
-    "uid" : "01db2c316a6c10b10ee6ac79cd60e638",
-    "name" : "newdatainput.NewDataInputTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
     }
   }, {
     "uid" : "9d2dbe5ca75b2a590386ac43a04ed3ee",
@@ -89,13 +89,13 @@
       "total" : 1
     }
   }, {
-    "uid" : "aca1dfefc7964804da160afaaf3050ef",
-    "name" : "multipagelist.MultiPageListTest",
+    "uid" : "84c2b07bb9c9e7f8906d87c96f2545fe",
+    "name" : "registration.RegistrationTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
+      "skipped" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
