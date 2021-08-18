@@ -1,0 +1,101 @@
+[ {
+  "uid" : "d4150f446006cc2e",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629283455875,
+    "stop" : 1629283516202,
+    "duration" : 60327
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3ca5de91943a9924",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629283437645,
+    "stop" : 1629283455863,
+    "duration" : 18218
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f5261715d141d548",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629283674556,
+    "stop" : 1629283716469,
+    "duration" : 41913
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f324c8af06313c59",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629283584122,
+    "stop" : 1629283650036,
+    "duration" : 65914
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b1fe8dc1fda03a1b",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1629283650057,
+    "stop" : 1629283674548,
+    "duration" : 24491
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "529f1ab7fd07a5b2",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629283516206,
+    "stop" : 1629283559192,
+    "duration" : 42986
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3053d2a4dc8bb20b",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629283716493,
+    "stop" : 1629283736919,
+    "duration" : 20426
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "f023a8db17d5ee62",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1629283559204,
+    "stop" : 1629283584114,
+    "duration" : 24910
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e1b34d3c829476f0",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629283405340,
+    "stop" : 1629283437556,
+    "duration" : 32216
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b0d044910418b9d",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1629283716489,
+    "stop" : 1629283716489,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+} ]
