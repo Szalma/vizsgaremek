@@ -3,6 +3,41 @@
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/17/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 381503
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 369963
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/10/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 340530
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 107865
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 111337
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/17/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 253796
   }
 }, {
@@ -102,40 +137,5 @@
   "reportName" : "Allure Report with history",
   "data" : {
     "duration" : 454407
-  }
-}, {
-  "buildOrder" : 6,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/6/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 441897
-  }
-}, {
-  "buildOrder" : 14,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/14/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 410677
-  }
-}, {
-  "buildOrder" : 10,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/10/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 2276
-  }
-}, {
-  "buildOrder" : 12,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/12/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 5410
-  }
-}, {
-  "buildOrder" : 7,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/7/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 135329
   }
 } ]
