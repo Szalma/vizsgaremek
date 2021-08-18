@@ -1,0 +1,101 @@
+[ {
+  "uid" : "556f15b660cd5611",
+  "name" : "Tc5, Több oldalas lista bejárása",
+  "time" : {
+    "start" : 1629307222282,
+    "stop" : 1629307262205,
+    "duration" : 39923
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "380007ffb98c499d",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+  "time" : {
+    "start" : 1629307058848,
+    "stop" : 1629307075237,
+    "duration" : 16389
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ad097ff38295645",
+  "name" : "Tc9, Kijelentkezés",
+  "time" : {
+    "start" : 1629307029341,
+    "stop" : 1629307058743,
+    "duration" : 29402
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "567f151d110effa",
+  "name" : "Tc4, Adatok listázása",
+  "time" : {
+    "start" : 1629307153376,
+    "stop" : 1629307185087,
+    "duration" : 31711
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "9032e89c3ea00d88",
+  "name" : "Tc1, Regisztráció",
+  "time" : {
+    "start" : 1629307222275,
+    "stop" : 1629307222275,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "52a092142f40ff9",
+  "name" : "Tc8, Meglévő adat módosítás",
+  "time" : {
+    "start" : 1629307117611,
+    "stop" : 1629307153371,
+    "duration" : 35760
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "efe574dbc6b599c9",
+  "name" : "Tc2, Bejelentkezés",
+  "time" : {
+    "start" : 1629307185091,
+    "stop" : 1629307222260,
+    "duration" : 37169
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3172dfb0f6d8b90c",
+  "name" : "Tc6, Új adat bevitel",
+  "time" : {
+    "start" : 1629307029350,
+    "stop" : 1629307113080,
+    "duration" : 83730
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8874818bd1730c8e",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629307075253,
+    "stop" : 1629307117606,
+    "duration" : 42353
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "797d70bb2d365d79",
+  "name" : "Tc6, Adat törlése",
+  "time" : {
+    "start" : 1629307113160,
+    "stop" : 1629307145482,
+    "duration" : 32322
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
