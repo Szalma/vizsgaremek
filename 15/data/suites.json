@@ -3,14 +3,14 @@
   "children" : [ {
     "name" : "logout.LogoutTest",
     "children" : [ {
-      "name" : "signoutTest()",
-      "uid" : "39444f81427f0406",
+      "name" : "Tc9, Kijelentkezés",
+      "uid" : "53330665982e31fe",
       "parentUid" : "9d2dbe5ca75b2a590386ac43a04ed3ee",
       "status" : "broken",
       "time" : {
-        "start" : 1629284401002,
-        "stop" : 1629284422267,
-        "duration" : 21265
+        "start" : 1629307026652,
+        "stop" : 1629307053298,
+        "duration" : 26646
       },
       "flaky" : false,
       "newFailed" : false,
@@ -20,14 +20,14 @@
   }, {
     "name" : "privacypolicy.PrivacyPolicyTest",
     "children" : [ {
-      "name" : "privacyPolicyTest()",
-      "uid" : "fc75e09086e92107",
+      "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+      "uid" : "be640f9da2255da3",
       "parentUid" : "b83a0ffd40c9049d7b5a92424a960378",
       "status" : "passed",
       "time" : {
-        "start" : 1629284422352,
-        "stop" : 1629284441127,
-        "duration" : 18775
+        "start" : 1629307053418,
+        "stop" : 1629307070596,
+        "duration" : 17178
       },
       "flaky" : false,
       "newFailed" : false,
@@ -37,14 +37,14 @@
   }, {
     "name" : "repeateddatainput.RepeatedDataInputTest",
     "children" : [ {
-      "name" : "repeatedDataInputTest()",
-      "uid" : "f073083254f26dd0",
+      "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+      "uid" : "9986c87eff09dc7e",
       "parentUid" : "7003bc901aa7f42dc2c96bb55ff8b294",
-      "status" : "passed",
+      "status" : "broken",
       "time" : {
-        "start" : 1629284441143,
-        "stop" : 1629284490786,
-        "duration" : 49643
+        "start" : 1629307070614,
+        "stop" : 1629307095361,
+        "duration" : 24747
       },
       "flaky" : false,
       "newFailed" : false,
@@ -54,14 +54,14 @@
   }, {
     "name" : "udateaddress.UpdateAddressTest",
     "children" : [ {
-      "name" : "updateTest()",
-      "uid" : "cabea796e733f649",
+      "name" : "Tc8, Meglévő adat módosítás",
+      "uid" : "923883e3a4567596",
       "parentUid" : "298db44241b4ee5456445552a17ffcb9",
       "status" : "passed",
       "time" : {
-        "start" : 1629284490792,
-        "stop" : 1629284531651,
-        "duration" : 40859
+        "start" : 1629307095370,
+        "stop" : 1629307154932,
+        "duration" : 59562
       },
       "flaky" : false,
       "newFailed" : false,
@@ -71,27 +71,27 @@
   }, {
     "name" : "newdatainput.NewDataInputTest",
     "children" : [ {
-      "name" : "successDataEntry()",
-      "uid" : "7f2ccc65db6b06fc",
+      "name" : "Tc6, Új adat bevitel",
+      "uid" : "cd5c1497ae2f18e0",
       "parentUid" : "01db2c316a6c10b10ee6ac79cd60e638",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1629284531667,
-        "stop" : 1629284586053,
-        "duration" : 54386
+        "start" : 1629307154947,
+        "stop" : 1629307218042,
+        "duration" : 63095
       },
       "flaky" : false,
       "newFailed" : false,
       "parameters" : [ ]
     }, {
-      "name" : "delete()",
-      "uid" : "8f2cc6e042af8eaa",
+      "name" : "Tc6, Adat törlése",
+      "uid" : "4118a0fed7273a5c",
       "parentUid" : "01db2c316a6c10b10ee6ac79cd60e638",
       "status" : "passed",
       "time" : {
-        "start" : 1629284586059,
-        "stop" : 1629284609558,
-        "duration" : 23499
+        "start" : 1629307218046,
+        "stop" : 1629307275330,
+        "duration" : 57284
       },
       "flaky" : false,
       "newFailed" : false,
@@ -101,14 +101,14 @@
   }, {
     "name" : "datalist.DataListTest",
     "children" : [ {
-      "name" : "creatDataList()",
-      "uid" : "5ec5cc8d26c52875",
+      "name" : "Tc4, Adatok listázása",
+      "uid" : "c09c0d829803509f",
       "parentUid" : "37520ffc716288ff26b1a5b5ae2125ab",
       "status" : "passed",
       "time" : {
-        "start" : 1629284609566,
-        "stop" : 1629284619349,
-        "duration" : 9783
+        "start" : 1629307275338,
+        "stop" : 1629307303820,
+        "duration" : 28482
       },
       "flaky" : false,
       "newFailed" : false,
@@ -118,14 +118,14 @@
   }, {
     "name" : "login.LoginTest",
     "children" : [ {
-      "name" : "successLogin()",
-      "uid" : "5cfcd874b6cb41f0",
+      "name" : "Tc2, Bejelentkezés",
+      "uid" : "db27622986cd5722",
       "parentUid" : "b4388fd6319efc981a634ab840782df5",
       "status" : "passed",
       "time" : {
-        "start" : 1629284619356,
-        "stop" : 1629284636102,
-        "duration" : 16746
+        "start" : 1629307303828,
+        "stop" : 1629307336433,
+        "duration" : 32605
       },
       "flaky" : false,
       "newFailed" : false,
@@ -135,13 +135,13 @@
   }, {
     "name" : "registration.RegistrationTest",
     "children" : [ {
-      "name" : "successfulRegistrationTest()",
-      "uid" : "de831126709c7ee3",
+      "name" : "Tc1, Regisztráció",
+      "uid" : "b9d3871e4323fd46",
       "parentUid" : "84c2b07bb9c9e7f8906d87c96f2545fe",
       "status" : "skipped",
       "time" : {
-        "start" : 1629284636114,
-        "stop" : 1629284636114,
+        "start" : 1629307336444,
+        "stop" : 1629307336444,
         "duration" : 0
       },
       "flaky" : false,
@@ -152,14 +152,14 @@
   }, {
     "name" : "multipagelist.MultiPageListTest",
     "children" : [ {
-      "name" : "multiPageListTest()",
-      "uid" : "26d61ab81016334c",
+      "name" : "Tc5, Több oldalas lista bejárása",
+      "uid" : "27cab361a7b4003f",
       "parentUid" : "aca1dfefc7964804da160afaaf3050ef",
-      "status" : "broken",
+      "status" : "passed",
       "time" : {
-        "start" : 1629284636123,
-        "stop" : 1629284660699,
-        "duration" : 24576
+        "start" : 1629307336452,
+        "stop" : 1629307377066,
+        "duration" : 40614
       },
       "flaky" : false,
       "newFailed" : false,
