@@ -2,11 +2,13 @@ package multipagelist;
 
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.MultiPageListPage;
 
 public class MultiPageListTest extends BaseTest {
 
+    @DisplayName("Tc5, Több oldalas lista bejárása")
     @Test
     public void multiPageListTest() {
         MultiPageListPage multiPageList=new MultiPageListPage(getDriver());

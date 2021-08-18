@@ -2,6 +2,7 @@ package udateaddress;
 
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.AddressPage;
 import vizsgaremek.UpdateAddressPage;
@@ -11,6 +12,7 @@ public class UpdateAddressTest extends BaseTest {
 
     private String mobile ="06203333333";
 
+    @DisplayName("Tc8, Meglévő adat módosítás")
     @Test
     public void updateTest(){
         login.clickLogin();

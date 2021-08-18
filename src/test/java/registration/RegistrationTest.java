@@ -3,6 +3,7 @@ package registration;
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Disabled;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.RegistrationPage;
 
@@ -19,6 +20,7 @@ public class RegistrationTest extends BaseTest {
     private String mobile="06305569455";
 
 
+    @DisplayName("Tc1, Regisztráció")
     @Disabled
     @Test
     public void successfulRegistrationTest(){

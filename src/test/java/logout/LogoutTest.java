@@ -2,12 +2,14 @@ package logout;
 
 import base.BaseTest;
 import org.junit.jupiter.api.Assertions;
+import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import vizsgaremek.LogoutPage;
 
 
 public class LogoutTest extends BaseTest {
 
+    @DisplayName("Tc9, Kijelentkezés")
     @Test
     public void signoutTest(){
         login.clickLogin();

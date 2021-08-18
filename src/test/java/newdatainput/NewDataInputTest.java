@@ -17,6 +17,7 @@ public class NewDataInputTest extends BaseTest {
     private String referenceAdress="Eper utca";
     AddressPage newDataInput;
 
+    @DisplayName("Tc6, Új adat bevitel")
     @Test
     @Order(1)
     public void successDataEntry(){
@@ -39,6 +40,7 @@ public class NewDataInputTest extends BaseTest {
     }
 
 
+    @DisplayName("Tc6, Adat törlése")
     @Test
     @Order(2)
     public void delete(){
