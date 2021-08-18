@@ -7,30 +7,6 @@
     "retry" : 0
   }
 }, {
-  "buildOrder" : 18,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 10,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 10,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/10/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 10,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 12,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/12/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 10,
-    "retry" : 0
-  }
-}, {
   "buildOrder" : 14,
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/14/",
   "reportName" : "Allure Report with history",
@@ -39,16 +15,8 @@
     "retry" : 0
   }
 }, {
-  "buildOrder" : 17,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/17/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 10,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 9,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/9/",
+  "buildOrder" : 21,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/21/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 10,
@@ -63,6 +31,14 @@
     "retry" : 0
   }
 }, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 10,
+    "retry" : 0
+  }
+}, {
   "buildOrder" : 13,
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/13/",
   "reportName" : "Allure Report with history",
@@ -71,8 +47,8 @@
     "retry" : 0
   }
 }, {
-  "buildOrder" : 11,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/11/",
+  "buildOrder" : 20,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/20/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 10,
@@ -87,8 +63,16 @@
     "retry" : 0
   }
 }, {
-  "buildOrder" : 8,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/8/",
+  "buildOrder" : 20,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/20/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 10,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/19/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 10,
@@ -103,8 +87,8 @@
     "retry" : 0
   }
 }, {
-  "buildOrder" : 10,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/10/",
+  "buildOrder" : 16,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/16/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 10,
@@ -119,16 +103,8 @@
     "retry" : 0
   }
 }, {
-  "buildOrder" : 7,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/7/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "run" : 10,
-    "retry" : 0
-  }
-}, {
-  "buildOrder" : 15,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/15/",
+  "buildOrder" : 18,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 10,
@@ -143,8 +119,8 @@
     "retry" : 0
   }
 }, {
-  "buildOrder" : 9,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/9/",
+  "buildOrder" : 19,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/19/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 10,
@@ -153,6 +129,30 @@
 }, {
   "buildOrder" : 13,
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 10,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 10,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/17/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "run" : 10,
+    "retry" : 0
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
   "reportName" : "Allure Report with history",
   "data" : {
     "run" : 10,

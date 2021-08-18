@@ -1,11 +1,11 @@
 {
-  "uid" : "cc2683fb0691c7cc",
+  "uid" : "4ce7df4376a18f7a",
   "name" : "successfulRegistrationTest()",
   "fullName" : "registration.RegistrationTest.successfulRegistrationTest",
   "historyId" : "d466ecec4fe5d3bc411c200226ba2343",
   "time" : {
-    "start" : 1629300064988,
-    "stop" : 1629300064988,
+    "start" : 1629300093265,
+    "stop" : 1629300093265,
     "duration" : 0
   },
   "description" : "",
@@ -17,10 +17,10 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "host",
-    "value" : "fv-az39-548"
+    "value" : "fv-az72-270"
   }, {
     "name" : "thread",
-    "value" : "4387@fv-az39-548.ForkJoinPool-1-worker-3(16)"
+    "value" : "4426@fv-az72-270.ForkJoinPool-1-worker-3(16)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -264,6 +264,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "cc2683fb0691c7cc.json",
+  "source" : "4ce7df4376a18f7a.json",
   "parameterValues" : [ ]
 }
