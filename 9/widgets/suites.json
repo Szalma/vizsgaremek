@@ -1,15 +1,15 @@
 {
   "total" : 9,
   "items" : [ {
-    "uid" : "7003bc901aa7f42dc2c96bb55ff8b294",
-    "name" : "repeateddatainput.RepeatedDataInputTest",
+    "uid" : "01db2c316a6c10b10ee6ac79cd60e638",
+    "name" : "newdatainput.NewDataInputTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 1
+      "total" : 2
     }
   }, {
     "uid" : "84c2b07bb9c9e7f8906d87c96f2545fe",
@@ -21,17 +21,6 @@
       "passed" : 0,
       "unknown" : 0,
       "total" : 1
-    }
-  }, {
-    "uid" : "01db2c316a6c10b10ee6ac79cd60e638",
-    "name" : "newdatainput.NewDataInputTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 2,
-      "unknown" : 0,
-      "total" : 2
     }
   }, {
     "uid" : "9d2dbe5ca75b2a590386ac43a04ed3ee",
@@ -47,6 +36,17 @@
   }, {
     "uid" : "b83a0ffd40c9049d7b5a92424a960378",
     "name" : "privacypolicy.PrivacyPolicyTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "7003bc901aa7f42dc2c96bb55ff8b294",
+    "name" : "repeateddatainput.RepeatedDataInputTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
