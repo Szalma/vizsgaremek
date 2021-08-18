@@ -66,11 +66,13 @@ public class AddressPage {
 
     public String addressName(){
         WebDriverWait wait=new WebDriverWait(driver,10);
-        wait.until(ExpectedConditions.visibilityOfAllElements(driver.findElements(NEW_ADDRESS_NAME)));
+        wait.until(ExpectedConditions.visibilityOf(driver.findElement(NEW_ADDRESS_NAME)));
         return driver.findElement(NEW_ADDRESS_NAME).getText();
     }
 
     public void clickdelete(){
+        WebDriverWait wait=new WebDriverWait(driver,10);
+        wait.until(ExpectedConditions.elementToBeClickable(DELETE));
         driver.findElement(DELETE).click();
     }
 
