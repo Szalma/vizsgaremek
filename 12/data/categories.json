@@ -3,22 +3,138 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#id_gender2\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az82-699', ip: '10.1.0.69', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.JAEtxJ}, goog:chromeOptions: {debuggerAddress: localhost:44475}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 924756d35dbeda77aa85f3ccb477b5c0\n*** Element info: {Using=id, value=id_gender2}",
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
       "children" : [ {
-        "name" : "successfulRegistrationTest()",
-        "uid" : "9a380ac3ddb7a405",
-        "parentUid" : "253fd7c859373440adbcc9c90f7827ee",
+        "name" : "signoutTest()",
+        "uid" : "9d18d231560b758",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
         "status" : "broken",
         "time" : {
-          "start" : 1629275826297,
-          "stop" : 1629275851205,
-          "duration" : 24908
+          "start" : 1629284173863,
+          "stop" : 1629284205626,
+          "duration" : 31763
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "repeatedDataInputTest()",
+        "uid" : "3953204ba724a421",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284231421,
+          "stop" : 1629284251965,
+          "duration" : 20544
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "updateTest()",
+        "uid" : "4b72f96ea8f1c3da",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284251977,
+          "stop" : 1629284272584,
+          "duration" : 20607
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "successDataEntry()",
+        "uid" : "4d3d338216aa4ca5",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284272592,
+          "stop" : 1629284293180,
+          "duration" : 20588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "delete()",
+        "uid" : "c331a8d8688c6800",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284293187,
+          "stop" : 1629284318401,
+          "duration" : 25214
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "successLogin()",
+        "uid" : "934a5e8601f5ec91",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284339025,
+          "stop" : 1629284359559,
+          "duration" : 20534
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "253fd7c859373440adbcc9c90f7827ee"
+      "uid" : "5d1b8b5ab097375c9200f0159974778e"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='footer-block col-xs-12 col-sm-2']//li[6]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.233', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.8HkyAc}, goog:chromeOptions: {debuggerAddress: localhost:35143}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b2207743e8f3ab982875c9f9d4b470c3\n*** Element info: {Using=xpath, value=//*[@class='footer-block col-xs-12 col-sm-2']//li[6]/a}",
+      "children" : [ {
+        "name" : "privacyPolicyTest()",
+        "uid" : "268d2524fbffd039",
+        "parentUid" : "1cf66296714b7178bb1bd780346880d1",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284205760,
+          "stop" : 1629284231402,
+          "duration" : 25642
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1cf66296714b7178bb1bd780346880d1"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"block_various_links_footer\"]/ul/li[8]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.233', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.rvyrO3}, goog:chromeOptions: {debuggerAddress: localhost:36415}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: fb4e40384a3b152217c629a71afcad82\n*** Element info: {Using=xpath, value=//*[@id=\"block_various_links_footer\"]/ul/li[8]/a}",
+      "children" : [ {
+        "name" : "creatDataList()",
+        "uid" : "bd1fe4a95c247045",
+        "parentUid" : "ee8d1e7b98eb1cf71babba37f5ca0d95",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284318425,
+          "stop" : 1629284338997,
+          "duration" : 20572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ee8d1e7b98eb1cf71babba37f5ca0d95"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li[1]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.233', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.pzSDZx}, goog:chromeOptions: {debuggerAddress: localhost:33871}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 6093e3d7079a9ccdd853ba04a4a7f2e0\n*** Element info: {Using=xpath, value=//*[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li[1]/a}",
+      "children" : [ {
+        "name" : "multiPageListTest()",
+        "uid" : "16526b70873c57aa",
+        "parentUid" : "de7fb6384a46f8931ebaf0b703987ca5",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629284359608,
+          "stop" : 1629284380157,
+          "duration" : 20549
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "de7fb6384a46f8931ebaf0b703987ca5"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],
