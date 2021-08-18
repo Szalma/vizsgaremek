@@ -141,11 +141,20 @@
       "failed" : 0,
       "broken" : 13,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 20
+      "total" : 21
     },
     "items" : [ {
+      "uid" : "21795d6fd409214c",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/21795d6fd409214c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275807056,
+        "stop" : 1629275815777,
+        "duration" : 8721
+      }
+    }, {
       "uid" : "fa47ee5cbcc0e65c",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/fa47ee5cbcc0e65c",
       "status" : "passed",
@@ -328,16 +337,6 @@
         "stop" : 1629203593763,
         "duration" : 145
       }
-    }, {
-      "uid" : "b7be83b517f3f3cc",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/b7be83b517f3f3cc",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x558c3419fa63 <unknown>\n#1 0x558c33f14458 <unknown>\n#2 0x558c33f372e3 <unknown>\n#3 0x558c33f32e9f <unknown>\n#4 0x558c33f6cb72 <unknown>\n#5 0x558c33f66fd3 <unknown>\n#6 0x558c33f3d514 <unknown>\n#7 0x558c33f3e505 <unknown>\n#8 0x558c341cbe2e <unknown>\n#9 0x558c341e1886 <unknown>\n#10 0x558c341ccd75 <unknown>\n#11 0x558c341e2d94 <unknown>\n#12 0x558c341c38eb <unknown>\n#13 0x558c341fdcd8 <unknown>\n#14 0x558c341fde58 <unknown>\n#15 0x558c34217dfd <unknown>\n#16 0x7f7c56792609 start_thread\n",
-      "time" : {
-        "start" : 1629203576709,
-        "stop" : 1629203576873,
-        "duration" : 164
-      }
     } ]
   },
   "874076ca03adbd4b1ef88e571c786150" : {
@@ -345,11 +344,20 @@
       "failed" : 0,
       "broken" : 5,
       "skipped" : 0,
-      "passed" : 29,
+      "passed" : 30,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "8992029fff948d00",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/8992029fff948d00",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275761325,
+        "stop" : 1629275766892,
+        "duration" : 5567
+      }
+    }, {
       "uid" : "b0996d8bece763c4",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/b0996d8bece763c4",
       "status" : "passed",
@@ -523,16 +531,6 @@
         "stop" : 1629203593091,
         "duration" : 188
       }
-    }, {
-      "uid" : "80479e7caf7a21cc",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/80479e7caf7a21cc",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x55601d22fa63 <unknown>\n#1 0x55601cfa4458 <unknown>\n#2 0x55601cfc72e3 <unknown>\n#3 0x55601cfc2e9f <unknown>\n#4 0x55601cffcb72 <unknown>\n#5 0x55601cff6fd3 <unknown>\n#6 0x55601cfcd514 <unknown>\n#7 0x55601cfce505 <unknown>\n#8 0x55601d25be2e <unknown>\n#9 0x55601d271886 <unknown>\n#10 0x55601d25cd75 <unknown>\n#11 0x55601d272d94 <unknown>\n#12 0x55601d2538eb <unknown>\n#13 0x55601d28dcd8 <unknown>\n#14 0x55601d28de58 <unknown>\n#15 0x55601d2a7dfd <unknown>\n#16 0x7f0024446609 start_thread\n",
-      "time" : {
-        "start" : 1629203576020,
-        "stop" : 1629203576193,
-        "duration" : 173
-      }
     } ]
   },
   "ff489951925913a970754280ae316aeb" : {
@@ -540,11 +538,20 @@
       "failed" : 0,
       "broken" : 6,
       "skipped" : 0,
-      "passed" : 28,
+      "passed" : 29,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "3c614072a05722b0",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/3c614072a05722b0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275750634,
+        "stop" : 1629275761234,
+        "duration" : 10600
+      }
+    }, {
       "uid" : "8b3b75a8df77eb65",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/8b3b75a8df77eb65",
       "status" : "passed",
@@ -720,16 +727,6 @@
         "stop" : 1629203592821,
         "duration" : 661
       }
-    }, {
-      "uid" : "d57adc36cbd18dc",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/d57adc36cbd18dc",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x55f1bcf05a63 <unknown>\n#1 0x55f1bcc7a458 <unknown>\n#2 0x55f1bcc9d2e3 <unknown>\n#3 0x55f1bcc98e9f <unknown>\n#4 0x55f1bccd2b72 <unknown>\n#5 0x55f1bccccfd3 <unknown>\n#6 0x55f1bcca3514 <unknown>\n#7 0x55f1bcca4505 <unknown>\n#8 0x55f1bcf31e2e <unknown>\n#9 0x55f1bcf47886 <unknown>\n#10 0x55f1bcf32d75 <unknown>\n#11 0x55f1bcf48d94 <unknown>\n#12 0x55f1bcf298eb <unknown>\n#13 0x55f1bcf63cd8 <unknown>\n#14 0x55f1bcf63e58 <unknown>\n#15 0x55f1bcf7ddfd <unknown>\n#16 0x7ff4dc0dd609 start_thread\n",
-      "time" : {
-        "start" : 1629203572115,
-        "stop" : 1629203575926,
-        "duration" : 3811
-      }
     } ]
   },
   "ba81521cb165d527242ba3f70733c9d2" : {
@@ -737,11 +734,20 @@
       "failed" : 0,
       "broken" : 6,
       "skipped" : 0,
-      "passed" : 28,
+      "passed" : 29,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "4e64cb81c2f4eaad",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/4e64cb81c2f4eaad",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275779095,
+        "stop" : 1629275795890,
+        "duration" : 16795
+      }
+    }, {
       "uid" : "d509515a30dde7d4",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/d509515a30dde7d4",
       "status" : "passed",
@@ -917,16 +923,6 @@
         "stop" : 1629203593440,
         "duration" : 152
       }
-    }, {
-      "uid" : "c98fe8cf7b8e620a",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/c98fe8cf7b8e620a",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x561310b01a63 <unknown>\n#1 0x561310876458 <unknown>\n#2 0x5613108992e3 <unknown>\n#3 0x561310894e9f <unknown>\n#4 0x5613108ceb72 <unknown>\n#5 0x5613108c8fd3 <unknown>\n#6 0x56131089f514 <unknown>\n#7 0x5613108a0505 <unknown>\n#8 0x561310b2de2e <unknown>\n#9 0x561310b43886 <unknown>\n#10 0x561310b2ed75 <unknown>\n#11 0x561310b44d94 <unknown>\n#12 0x561310b258eb <unknown>\n#13 0x561310b5fcd8 <unknown>\n#14 0x561310b5fe58 <unknown>\n#15 0x561310b79dfd <unknown>\n#16 0x7f1fde237609 start_thread\n",
-      "time" : {
-        "start" : 1629203576382,
-        "stop" : 1629203576546,
-        "duration" : 164
-      }
     } ]
   },
   "336b31e0f5a004f69e689a767649f020" : {
@@ -934,11 +930,20 @@
       "failed" : 0,
       "broken" : 5,
       "skipped" : 0,
-      "passed" : 29,
+      "passed" : 30,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "a08b2d8841fdc7c1",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/a08b2d8841fdc7c1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275815784,
+        "stop" : 1629275820637,
+        "duration" : 4853
+      }
+    }, {
       "uid" : "6793386e534b24c6",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/6793386e534b24c6",
       "status" : "passed",
@@ -1113,16 +1118,6 @@
         "stop" : 1629203593928,
         "duration" : 144
       }
-    }, {
-      "uid" : "817f9c306d11e41a",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/817f9c306d11e41a",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x55830c904a63 <unknown>\n#1 0x55830c679458 <unknown>\n#2 0x55830c69c2e3 <unknown>\n#3 0x55830c697e9f <unknown>\n#4 0x55830c6d1b72 <unknown>\n#5 0x55830c6cbfd3 <unknown>\n#6 0x55830c6a2514 <unknown>\n#7 0x55830c6a3505 <unknown>\n#8 0x55830c930e2e <unknown>\n#9 0x55830c946886 <unknown>\n#10 0x55830c931d75 <unknown>\n#11 0x55830c947d94 <unknown>\n#12 0x55830c9288eb <unknown>\n#13 0x55830c962cd8 <unknown>\n#14 0x55830c962e58 <unknown>\n#15 0x55830c97cdfd <unknown>\n#16 0x7fdaa5e7d609 start_thread\n",
-      "time" : {
-        "start" : 1629203576891,
-        "stop" : 1629203577051,
-        "duration" : 160
-      }
     } ]
   },
   "4e21b2105ba6dfb89ada3e368ebaea37" : {
@@ -1277,11 +1272,20 @@
       "failed" : 0,
       "broken" : 5,
       "skipped" : 0,
-      "passed" : 29,
+      "passed" : 30,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "c120c8b2d46fc141",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/c120c8b2d46fc141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275851246,
+        "stop" : 1629275858499,
+        "duration" : 7253
+      }
+    }, {
       "uid" : "edcdbdaeb3668df8",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/edcdbdaeb3668df8",
       "status" : "passed",
@@ -1456,28 +1460,28 @@
         "stop" : 1629203594436,
         "duration" : 163
       }
-    }, {
-      "uid" : "b0218d3c6526e2cb",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/b0218d3c6526e2cb",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x55e148269a63 <unknown>\n#1 0x55e147fde458 <unknown>\n#2 0x55e1480012e3 <unknown>\n#3 0x55e147ffce9f <unknown>\n#4 0x55e148036b72 <unknown>\n#5 0x55e148030fd3 <unknown>\n#6 0x55e148007514 <unknown>\n#7 0x55e148008505 <unknown>\n#8 0x55e148295e2e <unknown>\n#9 0x55e1482ab886 <unknown>\n#10 0x55e148296d75 <unknown>\n#11 0x55e1482acd94 <unknown>\n#12 0x55e14828d8eb <unknown>\n#13 0x55e1482c7cd8 <unknown>\n#14 0x55e1482c7e58 <unknown>\n#15 0x55e1482e1dfd <unknown>\n#16 0x7fa1034ca609 start_thread\n",
-      "time" : {
-        "start" : 1629203577385,
-        "stop" : 1629203577525,
-        "duration" : 140
-      }
     } ]
   },
   "d466ecec4fe5d3bc411c200226ba2343" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 34,
+      "broken" : 35,
       "skipped" : 0,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "9a380ac3ddb7a405",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/9a380ac3ddb7a405",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#id_gender2\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az82-699', ip: '10.1.0.69', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.JAEtxJ}, goog:chromeOptions: {debuggerAddress: localhost:44475}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 924756d35dbeda77aa85f3ccb477b5c0\n*** Element info: {Using=id, value=id_gender2}",
+      "time" : {
+        "start" : 1629275826297,
+        "stop" : 1629275851205,
+        "duration" : 24908
+      }
+    }, {
       "uid" : "b775b4d8483e7be0",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/b775b4d8483e7be0",
       "status" : "broken",
@@ -1667,16 +1671,6 @@
         "stop" : 1629203594256,
         "duration" : 160
       }
-    }, {
-      "uid" : "a09e65a059798b7",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/a09e65a059798b7",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x556b27e31a63 <unknown>\n#1 0x556b27ba6458 <unknown>\n#2 0x556b27bc92e3 <unknown>\n#3 0x556b27bc4e9f <unknown>\n#4 0x556b27bfeb72 <unknown>\n#5 0x556b27bf8fd3 <unknown>\n#6 0x556b27bcf514 <unknown>\n#7 0x556b27bd0505 <unknown>\n#8 0x556b27e5de2e <unknown>\n#9 0x556b27e73886 <unknown>\n#10 0x556b27e5ed75 <unknown>\n#11 0x556b27e74d94 <unknown>\n#12 0x556b27e558eb <unknown>\n#13 0x556b27e8fcd8 <unknown>\n#14 0x556b27e8fe58 <unknown>\n#15 0x556b27ea9dfd <unknown>\n#16 0x7fd97f4f5609 start_thread\n",
-      "time" : {
-        "start" : 1629203577222,
-        "stop" : 1629203577380,
-        "duration" : 158
-      }
     } ]
   },
   "aa2fa6a4e7ba5fc75b17bace434e103b" : {
@@ -1684,11 +1678,20 @@
       "failed" : 5,
       "broken" : 7,
       "skipped" : 0,
-      "passed" : 22,
+      "passed" : 23,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "84eadddba79f5673",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/84eadddba79f5673",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275766904,
+        "stop" : 1629275779089,
+        "duration" : 12185
+      }
+    }, {
       "uid" : "50067085b3d5739d",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/50067085b3d5739d",
       "status" : "passed",
@@ -1865,16 +1868,6 @@
         "stop" : 1629203593270,
         "duration" : 160
       }
-    }, {
-      "uid" : "49d40ba37942b756",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/49d40ba37942b756",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x561bdd4eda63 <unknown>\n#1 0x561bdd262458 <unknown>\n#2 0x561bdd2852e3 <unknown>\n#3 0x561bdd280e9f <unknown>\n#4 0x561bdd2bab72 <unknown>\n#5 0x561bdd2b4fd3 <unknown>\n#6 0x561bdd28b514 <unknown>\n#7 0x561bdd28c505 <unknown>\n#8 0x561bdd519e2e <unknown>\n#9 0x561bdd52f886 <unknown>\n#10 0x561bdd51ad75 <unknown>\n#11 0x561bdd530d94 <unknown>\n#12 0x561bdd5118eb <unknown>\n#13 0x561bdd54bcd8 <unknown>\n#14 0x561bdd54be58 <unknown>\n#15 0x561bdd565dfd <unknown>\n#16 0x7f30ecdad609 start_thread\n",
-      "time" : {
-        "start" : 1629203576210,
-        "stop" : 1629203576361,
-        "duration" : 151
-      }
     } ]
   },
   "ec8b7578a520adb49c40c78d5a0be45f" : {
@@ -1882,11 +1875,20 @@
       "failed" : 0,
       "broken" : 6,
       "skipped" : 0,
-      "passed" : 28,
+      "passed" : 29,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "9d5f9fd7f03344ab",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/9d5f9fd7f03344ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275820642,
+        "stop" : 1629275826288,
+        "duration" : 5646
+      }
+    }, {
       "uid" : "519f99b5ed572d57",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/519f99b5ed572d57",
       "status" : "passed",
@@ -2062,16 +2064,6 @@
         "stop" : 1629203594086,
         "duration" : 147
       }
-    }, {
-      "uid" : "14699ef342c3486f",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/14699ef342c3486f",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x562e347d1a63 <unknown>\n#1 0x562e34546458 <unknown>\n#2 0x562e345692e3 <unknown>\n#3 0x562e34564e9f <unknown>\n#4 0x562e3459eb72 <unknown>\n#5 0x562e34598fd3 <unknown>\n#6 0x562e3456f514 <unknown>\n#7 0x562e34570505 <unknown>\n#8 0x562e347fde2e <unknown>\n#9 0x562e34813886 <unknown>\n#10 0x562e347fed75 <unknown>\n#11 0x562e34814d94 <unknown>\n#12 0x562e347f58eb <unknown>\n#13 0x562e3482fcd8 <unknown>\n#14 0x562e3482fe58 <unknown>\n#15 0x562e34849dfd <unknown>\n#16 0x7f3b44b59609 start_thread\n",
-      "time" : {
-        "start" : 1629203577061,
-        "stop" : 1629203577209,
-        "duration" : 148
-      }
     } ]
   },
   "b097ebbdb2a4d44cf97846f193bf0cae" : {
@@ -2079,11 +2071,20 @@
       "failed" : 0,
       "broken" : 27,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 34
+      "total" : 35
     },
     "items" : [ {
+      "uid" : "f68ca28c36751703",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/f68ca28c36751703",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629275795899,
+        "stop" : 1629275807052,
+        "duration" : 11153
+      }
+    }, {
       "uid" : "5629bb5e9688c038",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/14//#testresult/5629bb5e9688c038",
       "status" : "passed",
@@ -2265,16 +2266,6 @@
         "start" : 1629203593457,
         "stop" : 1629203593612,
         "duration" : 155
-      }
-    }, {
-      "uid" : "6d4f730022d0e883",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/12//#testresult/6d4f730022d0e883",
-      "status" : "broken",
-      "statusDetails" : "unknown error: Chrome failed to start: exited abnormally.\n  (unknown error: DevToolsActivePort file doesn't exist)\n  (The process started from chrome location /usr/bin/google-chrome is no longer running, so ChromeDriver is assuming that Chrome has crashed.)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.0.111', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: driver.version: ChromeDriver\nremote stacktrace: #0 0x56063d923a63 <unknown>\n#1 0x56063d698458 <unknown>\n#2 0x56063d6bb2e3 <unknown>\n#3 0x56063d6b6e9f <unknown>\n#4 0x56063d6f0b72 <unknown>\n#5 0x56063d6eafd3 <unknown>\n#6 0x56063d6c1514 <unknown>\n#7 0x56063d6c2505 <unknown>\n#8 0x56063d94fe2e <unknown>\n#9 0x56063d965886 <unknown>\n#10 0x56063d950d75 <unknown>\n#11 0x56063d966d94 <unknown>\n#12 0x56063d9478eb <unknown>\n#13 0x56063d981cd8 <unknown>\n#14 0x56063d981e58 <unknown>\n#15 0x56063d99bdfd <unknown>\n#16 0x7f2b8d0c0609 start_thread\n",
-      "time" : {
-        "start" : 1629203576552,
-        "stop" : 1629203576702,
-        "duration" : 150
       }
     } ]
   }

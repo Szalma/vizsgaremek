@@ -1,101 +1,101 @@
 [ {
-  "uid" : "d7cf219c4c4ebd6d",
-  "name" : "successDataEntry()",
-  "time" : {
-    "start" : 1629216071783,
-    "stop" : 1629216130108,
-    "duration" : 58325
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "e72d669f3c1a0d51",
+  "uid" : "a08b2d8841fdc7c1",
   "name" : "creatDataList()",
   "time" : {
-    "start" : 1629216191292,
-    "stop" : 1629216203145,
-    "duration" : 11853
+    "start" : 1629275815784,
+    "stop" : 1629275820637,
+    "duration" : 4853
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c8553de834fe9f48",
-  "name" : "updateTest()",
-  "time" : {
-    "start" : 1629216022289,
-    "stop" : 1629216071779,
-    "duration" : 49490
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e2ab970d7632236a",
-  "name" : "delete()",
-  "time" : {
-    "start" : 1629216130121,
-    "stop" : 1629216191283,
-    "duration" : 61162
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "7498273089f64e1",
-  "name" : "successLogin()",
-  "time" : {
-    "start" : 1629216203154,
-    "stop" : 1629216223550,
-    "duration" : 20396
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "52cca8007394bda4",
-  "name" : "repeatedDataInputTest()",
-  "time" : {
-    "start" : 1629215970120,
-    "stop" : 1629216022286,
-    "duration" : 52166
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "65e119a8694f2358",
-  "name" : "multiPageListTest()",
-  "time" : {
-    "start" : 1629216250751,
-    "stop" : 1629216260481,
-    "duration" : 9730
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2bd08f03707818f0",
-  "name" : "privacyPolicyTest()",
-  "time" : {
-    "start" : 1629215955297,
-    "stop" : 1629215970111,
-    "duration" : 14814
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d077f247d1b4df7e",
-  "name" : "signoutTest()",
-  "time" : {
-    "start" : 1629215922412,
-    "stop" : 1629215955214,
-    "duration" : 32802
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "e4df2da02cc6cca2",
+  "uid" : "9a380ac3ddb7a405",
   "name" : "successfulRegistrationTest()",
   "time" : {
-    "start" : 1629216223553,
-    "stop" : 1629216250733,
-    "duration" : 27180
+    "start" : 1629275826297,
+    "stop" : 1629275851205,
+    "duration" : 24908
   },
   "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "8992029fff948d00",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629275761325,
+    "stop" : 1629275766892,
+    "duration" : 5567
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "21795d6fd409214c",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629275807056,
+    "stop" : 1629275815777,
+    "duration" : 8721
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f68ca28c36751703",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1629275795899,
+    "stop" : 1629275807052,
+    "duration" : 11153
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9d5f9fd7f03344ab",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629275820642,
+    "stop" : 1629275826288,
+    "duration" : 5646
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "84eadddba79f5673",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629275766904,
+    "stop" : 1629275779089,
+    "duration" : 12185
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4e64cb81c2f4eaad",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629275779095,
+    "stop" : 1629275795890,
+    "duration" : 16795
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c120c8b2d46fc141",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629275851246,
+    "stop" : 1629275858499,
+    "duration" : 7253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c614072a05722b0",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629275750634,
+    "stop" : 1629275761234,
+    "duration" : 10600
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]
