@@ -3,22 +3,39 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#id_gender2\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-229', ip: '10.1.1.27', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.ePBzYl}, goog:chromeOptions: {debuggerAddress: localhost:41595}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ebb3530982343d2e33fcabaef242b569\n*** Element info: {Using=id, value=id_gender2}",
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#name\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az82-699', ip: '10.1.0.8', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.l8rGbV}, goog:chromeOptions: {debuggerAddress: localhost:34071}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 91307b9b6d216d10c51be0f7bad405e5\n*** Element info: {Using=id, value=name}",
       "children" : [ {
-        "name" : "successfulRegistrationTest()",
-        "uid" : "d0518c70c87cdacc",
-        "parentUid" : "3f8b18c534f33dbc13155b03f4516f40",
+        "name" : "repeatedDataInputTest()",
+        "uid" : "3b5c53313195df81",
+        "parentUid" : "c5ae1ce3a0bda8c598b3836df6b1b858",
         "status" : "broken",
         "time" : {
-          "start" : 1629275245776,
-          "stop" : 1629275269722,
-          "duration" : 23946
+          "start" : 1629283001425,
+          "stop" : 1629283063623,
+          "duration" : 62198
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "3f8b18c534f33dbc13155b03f4516f40"
+      "uid" : "c5ae1ce3a0bda8c598b3836df6b1b858"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az82-699', ip: '10.1.0.8', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.LjcxPH}, goog:chromeOptions: {debuggerAddress: localhost:33219}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 8800ff75c8e0694b52e8992b9a421a39\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3}",
+      "children" : [ {
+        "name" : "successDataEntry()",
+        "uid" : "de986b73a4fedbdf",
+        "parentUid" : "865cbe1bd2dbe81f1d139557ddb5363d",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629283115691,
+          "stop" : 1629283178602,
+          "duration" : 62911
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "865cbe1bd2dbe81f1d139557ddb5363d"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],

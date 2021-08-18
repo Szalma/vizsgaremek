@@ -141,11 +141,20 @@
       "failed" : 0,
       "broken" : 16,
       "skipped" : 0,
-      "passed" : 9,
+      "passed" : 10,
       "unknown" : 0,
-      "total" : 25
+      "total" : 26
     },
     "items" : [ {
+      "uid" : "3a6aa8685e27cf62",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/3a6aa8685e27cf62",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629283178606,
+        "stop" : 1629283200286,
+        "duration" : 21680
+      }
+    }, {
       "uid" : "1985e8d06fbf5435",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/1985e8d06fbf5435",
       "status" : "passed",
@@ -327,15 +336,6 @@
         "stop" : 1629204430962,
         "duration" : 51633
       }
-    }, {
-      "uid" : "ef29570812dea700",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/ef29570812dea700",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204338187,
-        "stop" : 1629204362188,
-        "duration" : 24001
-      }
     } ]
   },
   "874076ca03adbd4b1ef88e571c786150" : {
@@ -343,11 +343,20 @@
       "failed" : 0,
       "broken" : 6,
       "skipped" : 0,
-      "passed" : 33,
+      "passed" : 34,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "1838fa8586a34ddc",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/1838fa8586a34ddc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629282989679,
+        "stop" : 1629283001414,
+        "duration" : 11735
+      }
+    }, {
       "uid" : "96c64b9627a4f23d",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/96c64b9627a4f23d",
       "status" : "passed",
@@ -520,15 +529,6 @@
         "stop" : 1629204268419,
         "duration" : 17174
       }
-    }, {
-      "uid" : "9933a996b95532c2",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/9933a996b95532c2",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204242169,
-        "stop" : 1629204258995,
-        "duration" : 16826
-      }
     } ]
   },
   "ff489951925913a970754280ae316aeb" : {
@@ -536,11 +536,20 @@
       "failed" : 0,
       "broken" : 8,
       "skipped" : 0,
-      "passed" : 31,
+      "passed" : 32,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "d577f8afa63bcc25",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/d577f8afa63bcc25",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629282962503,
+        "stop" : 1629282989561,
+        "duration" : 27058
+      }
+    }, {
       "uid" : "c8da8377af201d74",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/c8da8377af201d74",
       "status" : "passed",
@@ -715,15 +724,6 @@
         "stop" : 1629204251160,
         "duration" : 47522
       }
-    }, {
-      "uid" : "554b7422eae8f66f",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/554b7422eae8f66f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204194035,
-        "stop" : 1629204242102,
-        "duration" : 48067
-      }
     } ]
   },
   "ba81521cb165d527242ba3f70733c9d2" : {
@@ -731,11 +731,20 @@
       "failed" : 0,
       "broken" : 7,
       "skipped" : 0,
-      "passed" : 32,
+      "passed" : 33,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "2eebdea65719ad97",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/2eebdea65719ad97",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629283063651,
+        "stop" : 1629283115679,
+        "duration" : 52028
+      }
+    }, {
       "uid" : "d52bd5b97f4461ad",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/d52bd5b97f4461ad",
       "status" : "passed",
@@ -910,15 +919,6 @@
         "stop" : 1629204334751,
         "duration" : 19923
       }
-    }, {
-      "uid" : "58a509e40d2f466f",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/58a509e40d2f466f",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204279588,
-        "stop" : 1629204318380,
-        "duration" : 38792
-      }
     } ]
   },
   "336b31e0f5a004f69e689a767649f020" : {
@@ -926,11 +926,20 @@
       "failed" : 0,
       "broken" : 7,
       "skipped" : 0,
-      "passed" : 32,
+      "passed" : 33,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "ad4f0b4f5f590cb",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/ad4f0b4f5f590cb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629282962238,
+        "stop" : 1629282978973,
+        "duration" : 16735
+      }
+    }, {
       "uid" : "c9a7d07568463683",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/c9a7d07568463683",
       "status" : "passed",
@@ -1106,15 +1115,6 @@
         "stop" : 1629204450316,
         "duration" : 19328
       }
-    }, {
-      "uid" : "de94b37c1507fc70",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/de94b37c1507fc70",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204362209,
-        "stop" : 1629204387009,
-        "duration" : 24800
-      }
     } ]
   },
   "4e21b2105ba6dfb89ada3e368ebaea37" : {
@@ -1269,11 +1269,20 @@
       "failed" : 1,
       "broken" : 7,
       "skipped" : 0,
-      "passed" : 31,
+      "passed" : 32,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "a150964333082d69",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/a150964333082d69",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629283213689,
+        "stop" : 1629283224639,
+        "duration" : 10950
+      }
+    }, {
       "uid" : "a01e9784e3bd846",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/a01e9784e3bd846",
       "status" : "passed",
@@ -1449,27 +1458,28 @@
         "stop" : 1629204552417,
         "duration" : 30122
       }
-    }, {
-      "uid" : "c6d1fe928da36e47",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/c6d1fe928da36e47",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204449163,
-        "stop" : 1629204485753,
-        "duration" : 36590
-      }
     } ]
   },
   "d466ecec4fe5d3bc411c200226ba2343" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 35,
-      "skipped" : 4,
+      "skipped" : 5,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "2f9ac371b7f45122",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/2f9ac371b7f45122",
+      "status" : "skipped",
+      "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+      "time" : {
+        "start" : 1629283213686,
+        "stop" : 1629283213686,
+        "duration" : 0
+      }
+    }, {
       "uid" : "a453050f7e7fdd3d",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/a453050f7e7fdd3d",
       "status" : "skipped",
@@ -1659,28 +1669,28 @@
         "stop" : 1629204522283,
         "duration" : 37247
       }
-    }, {
-      "uid" : "e5c73b60680a6422",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/e5c73b60680a6422",
-      "status" : "broken",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#id_gender2\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az72-270', ip: '10.1.0.83', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.dn7e66}, goog:chromeOptions: {debuggerAddress: localhost:35687}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: e75be6ccebc6c0009f16a155a7d5a368\n*** Element info: {Using=id, value=id_gender2}",
-      "time" : {
-        "start" : 1629204411418,
-        "stop" : 1629204449150,
-        "duration" : 37732
-      }
     } ]
   },
   "aa2fa6a4e7ba5fc75b17bace434e103b" : {
     "statistic" : {
       "failed" : 5,
-      "broken" : 7,
+      "broken" : 8,
       "skipped" : 0,
       "passed" : 27,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "3b5c53313195df81",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/3b5c53313195df81",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#name\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az82-699', ip: '10.1.0.8', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.l8rGbV}, goog:chromeOptions: {debuggerAddress: localhost:34071}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 91307b9b6d216d10c51be0f7bad405e5\n*** Element info: {Using=id, value=name}",
+      "time" : {
+        "start" : 1629283001425,
+        "stop" : 1629283063623,
+        "duration" : 62198
+      }
+    }, {
       "uid" : "d704ac372e948b10",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/d704ac372e948b10",
       "status" : "passed",
@@ -1854,16 +1864,6 @@
         "stop" : 1629204314824,
         "duration" : 46396
       }
-    }, {
-      "uid" : "8f1dcbf863ef3fac",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/8f1dcbf863ef3fac",
-      "status" : "broken",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az72-270', ip: '10.1.0.83', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.ByQbnx}, goog:chromeOptions: {debuggerAddress: localhost:33623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 16c4902762d0228521c5ae88d8537fbd\n*** Element info: {Using=xpath, value=//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a}",
-      "time" : {
-        "start" : 1629204259001,
-        "stop" : 1629204279529,
-        "duration" : 20528
-      }
     } ]
   },
   "ec8b7578a520adb49c40c78d5a0be45f" : {
@@ -1871,11 +1871,20 @@
       "failed" : 0,
       "broken" : 8,
       "skipped" : 0,
-      "passed" : 31,
+      "passed" : 32,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "75dbf387c53753ef",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/75dbf387c53753ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629283200292,
+        "stop" : 1629283213680,
+        "duration" : 13388
+      }
+    }, {
       "uid" : "3a7eb19dfd760d2b",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/3a7eb19dfd760d2b",
       "status" : "passed",
@@ -2051,27 +2060,28 @@
         "stop" : 1629204485033,
         "duration" : 34714
       }
-    }, {
-      "uid" : "4279421612e7f678",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/4279421612e7f678",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204387014,
-        "stop" : 1629204411408,
-        "duration" : 24394
-      }
     } ]
   },
   "b097ebbdb2a4d44cf97846f193bf0cae" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 31,
+      "broken" : 32,
       "skipped" : 0,
       "passed" : 8,
       "unknown" : 0,
-      "total" : 39
+      "total" : 40
     },
     "items" : [ {
+      "uid" : "de986b73a4fedbdf",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/13//#testresult/de986b73a4fedbdf",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az82-699', ip: '10.1.0.8', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.LjcxPH}, goog:chromeOptions: {debuggerAddress: localhost:33219}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 8800ff75c8e0694b52e8992b9a421a39\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3}",
+      "time" : {
+        "start" : 1629283115691,
+        "stop" : 1629283178602,
+        "duration" : 62911
+      }
+    }, {
       "uid" : "41bbc1af2f0582b5",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/15//#testresult/41bbc1af2f0582b5",
       "status" : "broken",
@@ -2253,15 +2263,6 @@
         "start" : 1629204334760,
         "stop" : 1629204379319,
         "duration" : 44559
-      }
-    }, {
-      "uid" : "a08d74a15359223",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/9//#testresult/a08d74a15359223",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629204318392,
-        "stop" : 1629204338183,
-        "duration" : 19791
       }
     } ]
   }
