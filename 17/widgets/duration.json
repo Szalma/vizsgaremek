@@ -1,0 +1,101 @@
+[ {
+  "uid" : "bbab7f932afa788e",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629275532485,
+    "stop" : 1629275565827,
+    "duration" : 33342
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f6a6375bac5ed524",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1629275597326,
+    "stop" : 1629275645319,
+    "duration" : 47993
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "9bfef62d1cb17f05",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629275645333,
+    "stop" : 1629275687241,
+    "duration" : 41908
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1aff48db37950998",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1629275701599,
+    "stop" : 1629275729454,
+    "duration" : 27855
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b0355b01f67c0fec",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629275693205,
+    "stop" : 1629275701595,
+    "duration" : 8390
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bc1caf4bd2ce8fa3",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629275729462,
+    "stop" : 1629275737208,
+    "duration" : 7746
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "95d625cd351a889e",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629275517993,
+    "stop" : 1629275532480,
+    "duration" : 14487
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2385725af63e103a",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1629275687265,
+    "stop" : 1629275693202,
+    "duration" : 5937
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f142d3e94d2beb18",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629275565841,
+    "stop" : 1629275597321,
+    "duration" : 31480
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ab9615c8e514913",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629275483412,
+    "stop" : 1629275517883,
+    "duration" : 34471
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
