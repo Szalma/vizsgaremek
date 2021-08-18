@@ -5,9 +5,9 @@
     "name" : "newdatainput.NewDataInputTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 2,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 2
     }
@@ -16,20 +16,9 @@
     "name" : "logout.LogoutTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "b83a0ffd40c9049d7b5a92424a960378",
-    "name" : "privacypolicy.PrivacyPolicyTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
@@ -38,9 +27,9 @@
     "name" : "repeateddatainput.RepeatedDataInputTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
@@ -49,9 +38,9 @@
     "name" : "udateaddress.UpdateAddressTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
@@ -60,15 +49,26 @@
     "name" : "datalist.DataListTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
   }, {
     "uid" : "b4388fd6319efc981a634ab840782df5",
     "name" : "login.LoginTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "b83a0ffd40c9049d7b5a92424a960378",
+    "name" : "privacypolicy.PrivacyPolicyTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,
