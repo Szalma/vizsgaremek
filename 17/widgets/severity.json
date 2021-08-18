@@ -1,101 +1,101 @@
 [ {
-  "uid" : "4ce7df4376a18f7a",
-  "name" : "successfulRegistrationTest()",
+  "uid" : "6939f902708d3857",
+  "name" : "Tc1, Regisztráció",
   "time" : {
-    "start" : 1629300093265,
-    "stop" : 1629300093265,
+    "start" : 1629315804774,
+    "stop" : 1629315804774,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "7cd29e70bf5fed43",
-  "name" : "updateTest()",
+  "uid" : "80aa33ec192ecab",
+  "name" : "Tc6, Adat törlése",
   "time" : {
-    "start" : 1629299930062,
-    "stop" : 1629299950542,
-    "duration" : 20480
+    "start" : 1629315720810,
+    "stop" : 1629315741207,
+    "duration" : 20397
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "8fe53f954529c5f2",
-  "name" : "delete()",
+  "uid" : "2901fc51d9467197",
+  "name" : "Tc5, Több oldalas lista bejárása",
   "time" : {
-    "start" : 1629299975937,
-    "stop" : 1629300022097,
-    "duration" : 46160
+    "start" : 1629315804782,
+    "stop" : 1629315825179,
+    "duration" : 20397
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "8b8cf8321b474c60",
-  "name" : "signoutTest()",
+  "uid" : "35bd7b77de7d0669",
+  "name" : "Tc2, Bejelentkezés",
   "time" : {
-    "start" : 1629299866547,
-    "stop" : 1629299888005,
-    "duration" : 21458
+    "start" : 1629315769483,
+    "stop" : 1629315804767,
+    "duration" : 35284
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "d08f2a54b9410f07",
-  "name" : "creatDataList()",
+  "uid" : "770efaf653c706be",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
   "time" : {
-    "start" : 1629300022116,
-    "stop" : 1629300042603,
-    "duration" : 20487
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "34cee55c0c2e8fc3",
-  "name" : "successLogin()",
-  "time" : {
-    "start" : 1629300042616,
-    "stop" : 1629300093247,
-    "duration" : 50631
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "5af4d5dc78e2492e",
-  "name" : "multiPageListTest()",
-  "time" : {
-    "start" : 1629300093277,
-    "stop" : 1629300113895,
-    "duration" : 20618
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "40daaa6b295438a2",
-  "name" : "repeatedDataInputTest()",
-  "time" : {
-    "start" : 1629299909606,
-    "stop" : 1629299930056,
-    "duration" : 20450
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "4a3b4a5003633f1a",
-  "name" : "successDataEntry()",
-  "time" : {
-    "start" : 1629299950561,
-    "stop" : 1629299975927,
-    "duration" : 25366
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "de8f0bca7ff2e091",
-  "name" : "privacyPolicyTest()",
-  "time" : {
-    "start" : 1629299888144,
-    "stop" : 1629299909600,
-    "duration" : 21456
+    "start" : 1629315578631,
+    "stop" : 1629315599629,
+    "duration" : 20998
   },
   "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e0f987962966a9ed",
+  "name" : "Tc8, Meglévő adat módosítás",
+  "time" : {
+    "start" : 1629315670646,
+    "stop" : 1629315695596,
+    "duration" : 24950
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2556ecbbb76ea62",
+  "name" : "Tc9, Kijelentkezés",
+  "time" : {
+    "start" : 1629315554859,
+    "stop" : 1629315578548,
+    "duration" : 23689
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "48b6e4203a29c746",
+  "name" : "Tc4, Adatok listázása",
+  "time" : {
+    "start" : 1629315741224,
+    "stop" : 1629315769477,
+    "duration" : 28253
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6b79c424e97a3929",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629315599650,
+    "stop" : 1629315670636,
+    "duration" : 70986
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c5a5fd026ada7032",
+  "name" : "Tc6, Új adat bevitel",
+  "time" : {
+    "start" : 1629315695606,
+    "stop" : 1629315720806,
+    "duration" : 25200
+  },
+  "status" : "broken",
   "severity" : "normal"
 } ]
