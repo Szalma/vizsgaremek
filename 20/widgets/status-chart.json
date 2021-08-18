@@ -1,101 +1,101 @@
 [ {
-  "uid" : "e5cb8d6af1170973",
-  "name" : "successLogin()",
+  "uid" : "669271e8b2e2bf25",
+  "name" : "Tc6, Adat törlése",
   "time" : {
-    "start" : 1629286413579,
-    "stop" : 1629286447204,
-    "duration" : 33625
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "ff85335e0dcfa35c",
-  "name" : "creatDataList()",
-  "time" : {
-    "start" : 1629286389457,
-    "stop" : 1629286413576,
-    "duration" : 24119
+    "start" : 1629307707933,
+    "stop" : 1629307748213,
+    "duration" : 40280
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a0ca2743ac1a5572",
-  "name" : "updateTest()",
+  "uid" : "27278e687ab19a75",
+  "name" : "Tc1, Regisztráció",
   "time" : {
-    "start" : 1629286289150,
-    "stop" : 1629286309575,
-    "duration" : 20425
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "be99ac514c75c6dd",
-  "name" : "delete()",
-  "time" : {
-    "start" : 1629286369019,
-    "stop" : 1629286389450,
-    "duration" : 20431
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "fa53dc0a531adb1",
-  "name" : "successDataEntry()",
-  "time" : {
-    "start" : 1629286309595,
-    "stop" : 1629286369016,
-    "duration" : 59421
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "673904c89cae363e",
-  "name" : "multiPageListTest()",
-  "time" : {
-    "start" : 1629286447218,
-    "stop" : 1629286478049,
-    "duration" : 30831
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "2bcc3d5efd1fcf34",
-  "name" : "repeatedDataInputTest()",
-  "time" : {
-    "start" : 1629286251117,
-    "stop" : 1629286289145,
-    "duration" : 38028
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "3d942ce56a3c6153",
-  "name" : "signoutTest()",
-  "time" : {
-    "start" : 1629286175599,
-    "stop" : 1629286230571,
-    "duration" : 54972
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "8b8014b64091df1b",
-  "name" : "successfulRegistrationTest()",
-  "time" : {
-    "start" : 1629286447210,
-    "stop" : 1629286447210,
+    "start" : 1629307799717,
+    "stop" : 1629307799717,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "d631040f5353073d",
-  "name" : "privacyPolicyTest()",
+  "uid" : "68280715fc3d0b57",
+  "name" : "Tc8, Meglévő adat módosítás",
   "time" : {
-    "start" : 1629286230633,
-    "stop" : 1629286251090,
-    "duration" : 20457
+    "start" : 1629307612753,
+    "stop" : 1629307662408,
+    "duration" : 49655
   },
-  "status" : "broken",
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4b08aa0e4af6f0a1",
+  "name" : "Tc5, Több oldalas lista bejárása",
+  "time" : {
+    "start" : 1629307799734,
+    "stop" : 1629307828910,
+    "duration" : 29176
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "19abab2627e69974",
+  "name" : "Tc4, Adatok listázása",
+  "time" : {
+    "start" : 1629307748220,
+    "stop" : 1629307764616,
+    "duration" : 16396
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "53410ed8e29283e6",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+  "time" : {
+    "start" : 1629307530422,
+    "stop" : 1629307551174,
+    "duration" : 20752
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "378758a80806367e",
+  "name" : "Tc9, Kijelentkezés",
+  "time" : {
+    "start" : 1629307478585,
+    "stop" : 1629307530319,
+    "duration" : 51734
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "541ddac5c153239d",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629307551184,
+    "stop" : 1629307612742,
+    "duration" : 61558
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "851eeeed0256eec",
+  "name" : "Tc2, Bejelentkezés",
+  "time" : {
+    "start" : 1629307764626,
+    "stop" : 1629307799708,
+    "duration" : 35082
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7431282ecd469ff",
+  "name" : "Tc6, Új adat bevitel",
+  "time" : {
+    "start" : 1629307662414,
+    "stop" : 1629307707928,
+    "duration" : 45514
+  },
+  "status" : "passed",
   "severity" : "normal"
 } ]
