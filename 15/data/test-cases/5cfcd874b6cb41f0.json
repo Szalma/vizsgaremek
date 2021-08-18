@@ -1,12 +1,12 @@
 {
-  "uid" : "853b92f769ead384",
+  "uid" : "5cfcd874b6cb41f0",
   "name" : "successLogin()",
   "fullName" : "login.LoginTest.successLogin",
   "historyId" : "ec8b7578a520adb49c40c78d5a0be45f",
   "time" : {
-    "start" : 1629284613053,
-    "stop" : 1629284624190,
-    "duration" : 11137
+    "start" : 1629284619356,
+    "stop" : 1629284636102,
+    "duration" : 16746
   },
   "description" : "",
   "status" : "passed",
@@ -15,9 +15,9 @@
   "beforeStages" : [ {
     "name" : "Setup",
     "time" : {
-      "start" : 1629284613053,
-      "stop" : 1629284619201,
-      "duration" : 6148
+      "start" : 1629284619357,
+      "stop" : 1629284624020,
+      "duration" : 4663
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,9 +31,9 @@
   "afterStages" : [ {
     "name" : "quit",
     "time" : {
-      "start" : 1629284624119,
-      "stop" : 1629284624190,
-      "duration" : 71
+      "start" : 1629284636032,
+      "stop" : 1629284636101,
+      "duration" : 69
     },
     "status" : "passed",
     "steps" : [ ],
@@ -46,10 +46,10 @@
   } ],
   "labels" : [ {
     "name" : "host",
-    "value" : "fv-az83-229"
+    "value" : "fv-az82-699"
   }, {
     "name" : "thread",
-    "value" : "4661@fv-az83-229.ForkJoinPool-1-worker-3(16)"
+    "value" : "4365@fv-az82-699.ForkJoinPool-1-worker-3(16)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -281,6 +281,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "853b92f769ead384.json",
+  "source" : "5cfcd874b6cb41f0.json",
   "parameterValues" : [ ]
 }
