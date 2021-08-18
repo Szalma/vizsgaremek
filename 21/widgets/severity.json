@@ -1,0 +1,101 @@
+[ {
+  "uid" : "468f458375942527",
+  "name" : "updateTest()",
+  "time" : {
+    "start" : 1629299639480,
+    "stop" : 1629299665313,
+    "duration" : 25833
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2cd8971da88fa899",
+  "name" : "repeatedDataInputTest()",
+  "time" : {
+    "start" : 1629299592584,
+    "stop" : 1629299617527,
+    "duration" : 24943
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b7888a47df785a7",
+  "name" : "signoutTest()",
+  "time" : {
+    "start" : 1629299592509,
+    "stop" : 1629299617473,
+    "duration" : 24964
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "54917bfd2eece1ae",
+  "name" : "successLogin()",
+  "time" : {
+    "start" : 1629299690467,
+    "stop" : 1629299710891,
+    "duration" : 20424
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1d15d925a9c1cec9",
+  "name" : "delete()",
+  "time" : {
+    "start" : 1629299617848,
+    "stop" : 1629299643570,
+    "duration" : 25722
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "64cd754c1c4ab98c",
+  "name" : "multiPageListTest()",
+  "time" : {
+    "start" : 1629299617717,
+    "stop" : 1629299643575,
+    "duration" : 25858
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "73cad2d912733902",
+  "name" : "successDataEntry()",
+  "time" : {
+    "start" : 1629299592409,
+    "stop" : 1629299617547,
+    "duration" : 25138
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2175cdf9f29c02d3",
+  "name" : "privacyPolicyTest()",
+  "time" : {
+    "start" : 1629299617729,
+    "stop" : 1629299639466,
+    "duration" : 21737
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a90f0ceab5a36312",
+  "name" : "successfulRegistrationTest()",
+  "time" : {
+    "start" : 1629299710898,
+    "stop" : 1629299710898,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "97e47f661fd63119",
+  "name" : "creatDataList()",
+  "time" : {
+    "start" : 1629299665324,
+    "stop" : 1629299690457,
+    "duration" : 25133
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
