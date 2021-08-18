@@ -1,24 +1,13 @@
 {
   "total" : 9,
   "items" : [ {
-    "uid" : "37520ffc716288ff26b1a5b5ae2125ab",
-    "name" : "datalist.DataListTest",
-    "statistic" : {
-      "failed" : 1,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 0,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
     "uid" : "01db2c316a6c10b10ee6ac79cd60e638",
     "name" : "newdatainput.NewDataInputTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 1,
+      "broken" : 2,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 2
     }
@@ -36,6 +25,17 @@
   }, {
     "uid" : "7003bc901aa7f42dc2c96bb55ff8b294",
     "name" : "repeateddatainput.RepeatedDataInputTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "298db44241b4ee5456445552a17ffcb9",
+    "name" : "udateaddress.UpdateAddressTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 1,
@@ -67,8 +67,8 @@
       "total" : 1
     }
   }, {
-    "uid" : "298db44241b4ee5456445552a17ffcb9",
-    "name" : "udateaddress.UpdateAddressTest",
+    "uid" : "37520ffc716288ff26b1a5b5ae2125ab",
+    "name" : "datalist.DataListTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

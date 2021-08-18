@@ -3,6 +3,62 @@
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
   "reportName" : "Allure Report with history",
   "data" : {
+    "duration" : 332172
+  }
+}, {
+  "buildOrder" : 22,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/22/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 363336
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 350414
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/23/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 232864
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/17/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 247348
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 262473
+  }
+}, {
+  "buildOrder" : 21,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/21/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 118489
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/16/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 273466
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
     "duration" : 272055
   }
 }, {
@@ -81,61 +137,5 @@
   "reportName" : "Allure Report with history",
   "data" : {
     "duration" : 331579
-  }
-}, {
-  "buildOrder" : 13,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/13/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 262401
-  }
-}, {
-  "buildOrder" : 15,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/15/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 265956
-  }
-}, {
-  "buildOrder" : 17,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/17/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 381503
-  }
-}, {
-  "buildOrder" : 18,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 369963
-  }
-}, {
-  "buildOrder" : 10,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/10/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 340530
-  }
-}, {
-  "buildOrder" : 12,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/12/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 107865
-  }
-}, {
-  "buildOrder" : 14,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/14/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 111337
-  }
-}, {
-  "buildOrder" : 17,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/17/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 253796
   }
 } ]
