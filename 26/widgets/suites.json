@@ -5,48 +5,48 @@
     "name" : "newdatainput.NewDataInputTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 2,
       "skipped" : 0,
-      "passed" : 2,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 2
-    }
-  }, {
-    "uid" : "9d2dbe5ca75b2a590386ac43a04ed3ee",
-    "name" : "logout.LogoutTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
-    }
-  }, {
-    "uid" : "b83a0ffd40c9049d7b5a92424a960378",
-    "name" : "privacypolicy.PrivacyPolicyTest",
-    "statistic" : {
-      "failed" : 0,
-      "broken" : 0,
-      "skipped" : 0,
-      "passed" : 1,
-      "unknown" : 0,
-      "total" : 1
     }
   }, {
     "uid" : "7003bc901aa7f42dc2c96bb55ff8b294",
     "name" : "repeateddatainput.RepeatedDataInputTest",
     "statistic" : {
       "failed" : 0,
-      "broken" : 0,
+      "broken" : 1,
       "skipped" : 0,
-      "passed" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9d2dbe5ca75b2a590386ac43a04ed3ee",
+    "name" : "logout.LogoutTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
       "unknown" : 0,
       "total" : 1
     }
   }, {
     "uid" : "298db44241b4ee5456445552a17ffcb9",
     "name" : "udateaddress.UpdateAddressTest",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "b83a0ffd40c9049d7b5a92424a960378",
+    "name" : "privacypolicy.PrivacyPolicyTest",
     "statistic" : {
       "failed" : 0,
       "broken" : 0,

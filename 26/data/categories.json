@@ -1,5 +1,82 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ ],
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+        "uid" : "3acb2680962176a5",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629379186190,
+          "stop" : 1629379212315,
+          "duration" : 26125
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc9, Kijelentkezés",
+        "uid" : "ae9c6d42c5274c34",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629379186266,
+          "stop" : 1629379212255,
+          "duration" : 25989
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc8, Meglévő adat módosítás",
+        "uid" : "eba7305c7df64ba7",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629379229550,
+          "stop" : 1629379249976,
+          "duration" : 20426
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc6, Új adat bevitel",
+        "uid" : "5e17206cdf098db7",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629379249983,
+          "stop" : 1629379275309,
+          "duration" : 25326
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5d1b8b5ab097375c9200f0159974778e"
+    }, {
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@class='last_item alternate_item box']/li[9]/a[2]/span (tried for 10 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Tc6, Adat törlése",
+        "uid" : "28e037da45866793",
+        "parentUid" : "6a15ef5b5da3ddfd075e1f85ab42b97a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629379275313,
+          "stop" : 1629379334370,
+          "duration" : 59057
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a15ef5b5da3ddfd075e1f85ab42b97a"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
   "name" : "categories"
 }
