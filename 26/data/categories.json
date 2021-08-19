@@ -1,43 +1,5 @@
 {
   "uid" : "4b4757e66a1912dae1a509f688f20b0f",
-  "children" : [ {
-    "name" : "Test defects",
-    "children" : [ {
-      "name" : "timeout: Timed out receiving message from renderer: 300.000\n  (Session info: headless chrome=92.0.4515.131)\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az39-548', ip: '10.1.0.112', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.iKx4Qg}, goog:chromeOptions: {debuggerAddress: localhost:40551}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 1339c0ff2c3739e300a27b0a3ab623c0",
-      "children" : [ {
-        "name" : "Tc6, Új adat bevitel",
-        "uid" : "b99ae126cbe403fc",
-        "parentUid" : "e7432c9a606af0859e0ef717a6761215",
-        "status" : "broken",
-        "time" : {
-          "start" : 1629353573453,
-          "stop" : 1629353905201,
-          "duration" : 331748
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "e7432c9a606af0859e0ef717a6761215"
-    }, {
-      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@class='last_item alternate_item box']/li[9]/a[2]/span (tried for 10 second(s) with 500 milliseconds interval)",
-      "children" : [ {
-        "name" : "Tc6, Adat törlése",
-        "uid" : "96efccb0b180a609",
-        "parentUid" : "6a15ef5b5da3ddfd075e1f85ab42b97a",
-        "status" : "broken",
-        "time" : {
-          "start" : 1629353905224,
-          "stop" : 1629353930552,
-          "duration" : 25328
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "6a15ef5b5da3ddfd075e1f85ab42b97a"
-    } ],
-    "uid" : "bdbf199525818fae7a8651db9eafe741"
-  } ],
+  "children" : [ ],
   "name" : "categories"
 }
