@@ -1,100 +1,100 @@
 [ {
-  "uid" : "96944674286ff8bd",
-  "name" : "Tc6, Új adat bevitel",
+  "uid" : "dc57386845e805c3",
+  "name" : "Tc9, Kijelentkezés",
   "time" : {
-    "start" : 1629353707003,
-    "stop" : 1629353717324,
-    "duration" : 10321
+    "start" : 1629378802090,
+    "stop" : 1629378844003,
+    "duration" : 41913
   },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "8a44509a7b1c63d",
-  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
-  "time" : {
-    "start" : 1629353676779,
-    "stop" : 1629353683707,
-    "duration" : 6928
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "5848a29abdceec15",
+  "uid" : "53188b56d77c1617",
   "name" : "Tc6, Adat törlése",
   "time" : {
-    "start" : 1629353717330,
-    "stop" : 1629353726010,
-    "duration" : 8680
+    "start" : 1629379015006,
+    "stop" : 1629379035462,
+    "duration" : 20456
   },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "3b56c0b26413b6db",
-  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "uid" : "effb4eb629c662d0",
+  "name" : "Tc6, Új adat bevitel",
   "time" : {
-    "start" : 1629353683716,
-    "stop" : 1629353697828,
-    "duration" : 14112
+    "start" : 1629378967567,
+    "stop" : 1629379014996,
+    "duration" : 47429
   },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "363b0da998dbd065",
-  "name" : "Tc8, Meglévő adat módosítás",
-  "time" : {
-    "start" : 1629353697838,
-    "stop" : 1629353706990,
-    "duration" : 9152
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "18f37869198d4551",
-  "name" : "Tc5, Több oldalas lista bejárása",
-  "time" : {
-    "start" : 1629353736942,
-    "stop" : 1629353743436,
-    "duration" : 6494
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "c5f8fc17a02396b6",
+  "uid" : "abbeefc7b92b5922",
   "name" : "Tc2, Bejelentkezés",
   "time" : {
-    "start" : 1629353730366,
-    "stop" : 1629353736912,
-    "duration" : 6546
+    "start" : 1629379063574,
+    "stop" : 1629379100175,
+    "duration" : 36601
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "e7786c767a35c1c",
+  "uid" : "9f85daa7772ead43",
   "name" : "Tc4, Adatok listázása",
   "time" : {
-    "start" : 1629353726018,
-    "stop" : 1629353730361,
-    "duration" : 4343
+    "start" : 1629379035479,
+    "stop" : 1629379063567,
+    "duration" : 28088
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "4f39790534cbb06f",
+  "uid" : "982bb2236a6a56e",
+  "name" : "Tc5, Több oldalas lista bejárása",
+  "time" : {
+    "start" : 1629379100185,
+    "stop" : 1629379132207,
+    "duration" : 32022
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9cf654e3dcef75a8",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629378862684,
+    "stop" : 1629378930656,
+    "duration" : 67972
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23c1d78c47e46761",
+  "name" : "Tc8, Meglévő adat módosítás",
+  "time" : {
+    "start" : 1629378930680,
+    "stop" : 1629378967559,
+    "duration" : 36879
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "19a88775260a0f56",
   "name" : "Tc1, Regisztráció",
   "time" : {
-    "start" : 1629353736929,
-    "stop" : 1629353736929,
+    "start" : 1629379100181,
+    "stop" : 1629379100181,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "e77ad95319286e2c",
-  "name" : "Tc9, Kijelentkezés",
+  "uid" : "8b7a1dcee6371e91",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
   "time" : {
-    "start" : 1629353661531,
-    "stop" : 1629353676669,
-    "duration" : 15138
+    "start" : 1629378844124,
+    "stop" : 1629378862674,
+    "duration" : 18550
   },
   "status" : "passed",
   "severity" : "normal"
