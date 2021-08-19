@@ -1,0 +1,269 @@
+{
+  "uid" : "5178673ec22faca9",
+  "name" : "Tc1, Regisztráció",
+  "fullName" : "registration.RegistrationTest.successfulRegistrationTest",
+  "historyId" : "d466ecec4fe5d3bc411c200226ba2343",
+  "time" : {
+    "start" : 1629380055626,
+    "stop" : 1629380055626,
+    "duration" : 0
+  },
+  "description" : "",
+  "status" : "skipped",
+  "statusMessage" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "host",
+    "value" : "fv-az47-368"
+  }, {
+    "name" : "thread",
+    "value" : "2871@fv-az47-368.ForkJoinPool-1-worker-1(12)"
+  }, {
+    "name" : "framework",
+    "value" : "junit-platform"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "package",
+    "value" : "registration.RegistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "registration.RegistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "successfulRegistrationTest"
+  }, {
+    "name" : "suite",
+    "value" : "registration.RegistrationTest"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 35,
+        "skipped" : 55,
+        "passed" : 0,
+        "unknown" : 0,
+        "total" : 90
+      },
+      "items" : [ {
+        "uid" : "59931211b76796cc",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/59931211b76796cc",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629379517639,
+          "stop" : 1629379517639,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "523f02ef87d0b114",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/26//#testresult/523f02ef87d0b114",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629379380848,
+          "stop" : 1629379380848,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "7276430485b8b1f7",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/29//#testresult/7276430485b8b1f7",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629379161026,
+          "stop" : 1629379161026,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1a62529fe60c2eea",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/1a62529fe60c2eea",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629379111065,
+          "stop" : 1629379111065,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "19a88775260a0f56",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/19a88775260a0f56",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629379100181,
+          "stop" : 1629379100181,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "87d45ed70fec26ab",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/87d45ed70fec26ab",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629358447192,
+          "stop" : 1629358447192,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "7ce38d94cac4ffc2",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/7ce38d94cac4ffc2",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629358075480,
+          "stop" : 1629358075480,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "22bdcc4ef2f1b506",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/22bdcc4ef2f1b506",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629358039524,
+          "stop" : 1629358039524,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "66f9e0d4bfebf7c9",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/66f9e0d4bfebf7c9",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629357930893,
+          "stop" : 1629357930893,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "58ca2f4f6f41a3f6",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/58ca2f4f6f41a3f6",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629357346957,
+          "stop" : 1629357346957,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "413bc1ba6c8d05b7",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/22//#testresult/413bc1ba6c8d05b7",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629357308276,
+          "stop" : 1629357308276,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "3142db6b4f04c22b",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/19//#testresult/3142db6b4f04c22b",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629357204282,
+          "stop" : 1629357204282,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "32fc86ce45a47bd3",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/26//#testresult/32fc86ce45a47bd3",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629357167114,
+          "stop" : 1629357167114,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "68eedb4c324db108",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/68eedb4c324db108",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629357132183,
+          "stop" : 1629357132183,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "b18237f49e3ce844",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/26//#testresult/b18237f49e3ce844",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629353938326,
+          "stop" : 1629353938326,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "1e14529e5ee4343d",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/23//#testresult/1e14529e5ee4343d",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629353759300,
+          "stop" : 1629353759300,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "4f39790534cbb06f",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/4f39790534cbb06f",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629353736929,
+          "stop" : 1629353736929,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "97818a9f074a5294",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/18//#testresult/97818a9f074a5294",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629353677087,
+          "stop" : 1629353677087,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "2c71649216ab1aa7",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/22//#testresult/2c71649216ab1aa7",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629316132181,
+          "stop" : 1629316132181,
+          "duration" : 0
+        }
+      }, {
+        "uid" : "98662887af57b253",
+        "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/98662887af57b253",
+        "status" : "skipped",
+        "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+        "time" : {
+          "start" : 1629316109234,
+          "stop" : 1629316109234,
+          "duration" : 0
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "5178673ec22faca9.json",
+  "parameterValues" : [ ]
+}

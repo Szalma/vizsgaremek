@@ -1,0 +1,101 @@
+[ {
+  "uid" : "5633da02df60082c",
+  "name" : "Tc5, Több oldalas lista bejárása",
+  "time" : {
+    "start" : 1629380055635,
+    "stop" : 1629380080933,
+    "duration" : 25298
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b40754073f4bb5ae",
+  "name" : "Tc6, Új adat bevitel",
+  "time" : {
+    "start" : 1629379952000,
+    "stop" : 1629379989517,
+    "duration" : 37517
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5178673ec22faca9",
+  "name" : "Tc1, Regisztráció",
+  "time" : {
+    "start" : 1629380055626,
+    "stop" : 1629380055626,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "a14807a59c916479",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+  "time" : {
+    "start" : 1629379825441,
+    "stop" : 1629379846254,
+    "duration" : 20813
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9c8aa3427c79fb66",
+  "name" : "Tc9, Kijelentkezés",
+  "time" : {
+    "start" : 1629379769709,
+    "stop" : 1629379825369,
+    "duration" : 55660
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3e0eed2ff913d659",
+  "name" : "Tc2, Bejelentkezés",
+  "time" : {
+    "start" : 1629380035180,
+    "stop" : 1629380055608,
+    "duration" : 20428
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ec18d8d59feb1c93",
+  "name" : "Tc8, Meglévő adat módosítás",
+  "time" : {
+    "start" : 1629379914342,
+    "stop" : 1629379951990,
+    "duration" : 37648
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "650caba78d177568",
+  "name" : "Tc4, Adatok listázása",
+  "time" : {
+    "start" : 1629380014728,
+    "stop" : 1629380035176,
+    "duration" : 20448
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "5e40f87a66b562e8",
+  "name" : "Tc6, Adat törlése",
+  "time" : {
+    "start" : 1629379989522,
+    "stop" : 1629380014720,
+    "duration" : 25198
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "de37b53dcecac5f8",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629379846262,
+    "stop" : 1629379914337,
+    "duration" : 68075
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
