@@ -1,0 +1,60 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Tc9, Kijelentkezés",
+        "uid" : "ede52e3774f65137",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629378804554,
+          "stop" : 1629378836451,
+          "duration" : 31897
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5d1b8b5ab097375c9200f0159974778e"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div[1]/div/div/ul/li[8]/span\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az72-989', ip: '10.1.0.195', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.7mFx7t}, goog:chromeOptions: {debuggerAddress: localhost:46337}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 237f29d658105ef4fa365856d8d23285\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div[1]/div/div/ul/li[8]/span}",
+      "children" : [ {
+        "name" : "Tc8, Meglévő adat módosítás",
+        "uid" : "a2c9aedf444f7667",
+        "parentUid" : "7d25a1a362693990031d74ba7fd1ab2c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629378919966,
+          "stop" : 1629378990211,
+          "duration" : 70245
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "7d25a1a362693990031d74ba7fd1ab2c"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az72-989', ip: '10.1.0.195', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.ID6kmU}, goog:chromeOptions: {debuggerAddress: localhost:33619}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: bc77da4744233a59a0ed8b85af1fe7ce\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3}",
+      "children" : [ {
+        "name" : "Tc6, Új adat bevitel",
+        "uid" : "f24419edaf2d9496",
+        "parentUid" : "ad41d8eb081caa20441411dd02cff526",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629378990231,
+          "stop" : 1629379062974,
+          "duration" : 72743
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ad41d8eb081caa20441411dd02cff526"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
