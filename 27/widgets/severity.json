@@ -1,100 +1,100 @@
 [ {
-  "uid" : "dea1d261a167207a",
+  "uid" : "2e5891ad43d1d96c",
   "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
   "time" : {
-    "start" : 1629357839023,
-    "stop" : 1629357909135,
-    "duration" : 70112
+    "start" : 1629380224759,
+    "stop" : 1629380266149,
+    "duration" : 41390
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "57ba6001fbbef03f",
+  "name" : "Tc2, Bejelentkezés",
+  "time" : {
+    "start" : 1629380429584,
+    "stop" : 1629380466000,
+    "duration" : 36416
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4fab921fa6a399e0",
+  "name" : "Tc4, Adatok listázása",
+  "time" : {
+    "start" : 1629380398208,
+    "stop" : 1629380429570,
+    "duration" : 31362
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "48899df0b93d0f03",
+  "name" : "Tc9, Kijelentkezés",
+  "time" : {
+    "start" : 1629380154193,
+    "stop" : 1629380205433,
+    "duration" : 51240
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "a76a441d7880e086",
-  "name" : "Tc6, Új adat bevitel",
-  "time" : {
-    "start" : 1629357943295,
-    "stop" : 1629358013974,
-    "duration" : 70679
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "8c36f20698798518",
-  "name" : "Tc8, Meglévő adat módosítás",
-  "time" : {
-    "start" : 1629357909140,
-    "stop" : 1629357943288,
-    "duration" : 34148
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "c02e253f7900f039",
-  "name" : "Tc9, Kijelentkezés",
-  "time" : {
-    "start" : 1629357786077,
-    "stop" : 1629357818383,
-    "duration" : 32306
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "cd9956cee5418e50",
+  "uid" : "28e13f1b5b2d1005",
   "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
   "time" : {
-    "start" : 1629357818489,
-    "stop" : 1629357839005,
-    "duration" : 20516
+    "start" : 1629380205544,
+    "stop" : 1629380224753,
+    "duration" : 19209
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "626e5a7dc1e15351",
+  "name" : "Tc8, Meglévő adat módosítás",
+  "time" : {
+    "start" : 1629380266202,
+    "stop" : 1629380312511,
+    "duration" : 46309
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "98e5f9aa3ab0ed74",
+  "name" : "Tc6, Adat törlése",
+  "time" : {
+    "start" : 1629380373299,
+    "stop" : 1629380398186,
+    "duration" : 24887
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "7ce38d94cac4ffc2",
+  "uid" : "43e2124d0b6d5818",
+  "name" : "Tc5, Több oldalas lista bejárása",
+  "time" : {
+    "start" : 1629380466014,
+    "stop" : 1629380497978,
+    "duration" : 31964
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "59fefde6c6277215",
   "name" : "Tc1, Regisztráció",
   "time" : {
-    "start" : 1629358075480,
-    "stop" : 1629358075480,
+    "start" : 1629380466008,
+    "stop" : 1629380466008,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "64b5c029b2d35cf3",
-  "name" : "Tc5, Több oldalas lista bejárása",
+  "uid" : "ebe5fd55d2c22f6d",
+  "name" : "Tc6, Új adat bevitel",
   "time" : {
-    "start" : 1629358075484,
-    "stop" : 1629358111686,
-    "duration" : 36202
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "99084c1977923191",
-  "name" : "Tc4, Adatok listázása",
-  "time" : {
-    "start" : 1629358034489,
-    "stop" : 1629358054979,
-    "duration" : 20490
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "71a429e867433a09",
-  "name" : "Tc2, Bejelentkezés",
-  "time" : {
-    "start" : 1629358054984,
-    "stop" : 1629358075473,
-    "duration" : 20489
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "c2a25d8b0e182358",
-  "name" : "Tc6, Adat törlése",
-  "time" : {
-    "start" : 1629358013982,
-    "stop" : 1629358034469,
-    "duration" : 20487
+    "start" : 1629380312517,
+    "stop" : 1629380373286,
+    "duration" : 60769
   },
   "status" : "broken",
   "severity" : "normal"
