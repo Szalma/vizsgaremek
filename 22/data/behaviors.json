@@ -2,116 +2,116 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "Tc9, Kijelentkezés",
-    "uid" : "eb2008d4bd520b1a",
+    "uid" : "ded53ca91b9ca016",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1629357223861,
-      "stop" : 1629357235473,
-      "duration" : 11612
+      "start" : 1629379782389,
+      "stop" : 1629379843245,
+      "duration" : 60856
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
-    "uid" : "768a592102f356b3",
+    "uid" : "ec117dac47471d3f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1629357235584,
-      "stop" : 1629357238792,
-      "duration" : 3208
+      "start" : 1629379843374,
+      "stop" : 1629379864068,
+      "duration" : 20694
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
-    "uid" : "a4da2b4985d8cf00",
+    "uid" : "cf9aa658769ccd14",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1629357238806,
-      "stop" : 1629357251204,
-      "duration" : 12398
+      "start" : 1629379864085,
+      "stop" : 1629379930414,
+      "duration" : 66329
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc8, Meglévő adat módosítás",
-    "uid" : "c2a0e6c55e256696",
+    "uid" : "68929892ccb0517e",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1629357251218,
-      "stop" : 1629357269125,
-      "duration" : 17907
+      "start" : 1629379930426,
+      "stop" : 1629379951045,
+      "duration" : 20619
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc6, Új adat bevitel",
-    "uid" : "5ce64728e2b36c16",
+    "uid" : "1fda0cbe0f4c4d2b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1629357269138,
-      "stop" : 1629357287996,
-      "duration" : 18858
+      "start" : 1629379951060,
+      "stop" : 1629379989892,
+      "duration" : 38832
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc6, Adat törlése",
-    "uid" : "db0c6006cdda7298",
+    "uid" : "8db614b3e1113f9b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1629357287999,
-      "stop" : 1629357296790,
-      "duration" : 8791
+      "start" : 1629379989897,
+      "stop" : 1629380010495,
+      "duration" : 20598
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc4, Adatok listázása",
-    "uid" : "1f48831cd1bb6a04",
+    "uid" : "e8aac1ab5f7f1270",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1629357296798,
-      "stop" : 1629357300693,
-      "duration" : 3895
+      "start" : 1629380010503,
+      "stop" : 1629380038594,
+      "duration" : 28091
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc2, Bejelentkezés",
-    "uid" : "63f25c7a825a686d",
+    "uid" : "168f28687ea07162",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "passed",
+    "status" : "broken",
     "time" : {
-      "start" : 1629357300698,
-      "stop" : 1629357308265,
-      "duration" : 7567
+      "start" : 1629380038613,
+      "stop" : 1629380076495,
+      "duration" : 37882
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ ]
   }, {
     "name" : "Tc1, Regisztráció",
-    "uid" : "413bc1ba6c8d05b7",
+    "uid" : "d53609aed3b01644",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "skipped",
     "time" : {
-      "start" : 1629357308276,
-      "stop" : 1629357308276,
+      "start" : 1629380076524,
+      "stop" : 1629380076524,
       "duration" : 0
     },
     "flaky" : false,
@@ -119,13 +119,13 @@
     "parameters" : [ ]
   }, {
     "name" : "Tc5, Több oldalas lista bejárása",
-    "uid" : "527a7b5428380fc9",
+    "uid" : "c72112ca8a3a74e1",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1629357308285,
-      "stop" : 1629357317399,
-      "duration" : 9114
+      "start" : 1629380076537,
+      "stop" : 1629380117061,
+      "duration" : 40524
     },
     "flaky" : false,
     "newFailed" : false,

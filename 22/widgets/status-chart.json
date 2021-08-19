@@ -1,101 +1,101 @@
 [ {
-  "uid" : "1f48831cd1bb6a04",
+  "uid" : "e8aac1ab5f7f1270",
   "name" : "Tc4, Adatok listázása",
   "time" : {
-    "start" : 1629357296798,
-    "stop" : 1629357300693,
-    "duration" : 3895
+    "start" : 1629380010503,
+    "stop" : 1629380038594,
+    "duration" : 28091
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5ce64728e2b36c16",
-  "name" : "Tc6, Új adat bevitel",
-  "time" : {
-    "start" : 1629357269138,
-    "stop" : 1629357287996,
-    "duration" : 18858
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "768a592102f356b3",
-  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
-  "time" : {
-    "start" : 1629357235584,
-    "stop" : 1629357238792,
-    "duration" : 3208
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "a4da2b4985d8cf00",
-  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
-  "time" : {
-    "start" : 1629357238806,
-    "stop" : 1629357251204,
-    "duration" : 12398
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "eb2008d4bd520b1a",
-  "name" : "Tc9, Kijelentkezés",
-  "time" : {
-    "start" : 1629357223861,
-    "stop" : 1629357235473,
-    "duration" : 11612
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "527a7b5428380fc9",
-  "name" : "Tc5, Több oldalas lista bejárása",
-  "time" : {
-    "start" : 1629357308285,
-    "stop" : 1629357317399,
-    "duration" : 9114
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "63f25c7a825a686d",
-  "name" : "Tc2, Bejelentkezés",
-  "time" : {
-    "start" : 1629357300698,
-    "stop" : 1629357308265,
-    "duration" : 7567
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "db0c6006cdda7298",
+  "uid" : "8db614b3e1113f9b",
   "name" : "Tc6, Adat törlése",
   "time" : {
-    "start" : 1629357287999,
-    "stop" : 1629357296790,
-    "duration" : 8791
+    "start" : 1629379989897,
+    "stop" : 1629380010495,
+    "duration" : 20598
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "cf9aa658769ccd14",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629379864085,
+    "stop" : 1629379930414,
+    "duration" : 66329
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ec117dac47471d3f",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+  "time" : {
+    "start" : 1629379843374,
+    "stop" : 1629379864068,
+    "duration" : 20694
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c72112ca8a3a74e1",
+  "name" : "Tc5, Több oldalas lista bejárása",
+  "time" : {
+    "start" : 1629380076537,
+    "stop" : 1629380117061,
+    "duration" : 40524
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "c2a0e6c55e256696",
+  "uid" : "168f28687ea07162",
+  "name" : "Tc2, Bejelentkezés",
+  "time" : {
+    "start" : 1629380038613,
+    "stop" : 1629380076495,
+    "duration" : 37882
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "68929892ccb0517e",
   "name" : "Tc8, Meglévő adat módosítás",
   "time" : {
-    "start" : 1629357251218,
-    "stop" : 1629357269125,
-    "duration" : 17907
+    "start" : 1629379930426,
+    "stop" : 1629379951045,
+    "duration" : 20619
   },
-  "status" : "passed",
+  "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "413bc1ba6c8d05b7",
+  "uid" : "d53609aed3b01644",
   "name" : "Tc1, Regisztráció",
   "time" : {
-    "start" : 1629357308276,
-    "stop" : 1629357308276,
+    "start" : 1629380076524,
+    "stop" : 1629380076524,
     "duration" : 0
   },
   "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ded53ca91b9ca016",
+  "name" : "Tc9, Kijelentkezés",
+  "time" : {
+    "start" : 1629379782389,
+    "stop" : 1629379843245,
+    "duration" : 60856
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "1fda0cbe0f4c4d2b",
+  "name" : "Tc6, Új adat bevitel",
+  "time" : {
+    "start" : 1629379951060,
+    "stop" : 1629379989892,
+    "duration" : 38832
+  },
+  "status" : "broken",
   "severity" : "normal"
 } ]
