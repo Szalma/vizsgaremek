@@ -1,0 +1,101 @@
+[ {
+  "uid" : "bfb2dec1b39f2fc0",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629353509982,
+    "stop" : 1629353541783,
+    "duration" : 31801
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b18237f49e3ce844",
+  "name" : "Tc1, Regisztráció",
+  "time" : {
+    "start" : 1629353938326,
+    "stop" : 1629353938326,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "b99ae126cbe403fc",
+  "name" : "Tc6, Új adat bevitel",
+  "time" : {
+    "start" : 1629353573453,
+    "stop" : 1629353905201,
+    "duration" : 331748
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "260dd8579c049b66",
+  "name" : "Tc4, Adatok listázása",
+  "time" : {
+    "start" : 1629353930560,
+    "stop" : 1629353933692,
+    "duration" : 3132
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "563203055b81887d",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+  "time" : {
+    "start" : 1629353500470,
+    "stop" : 1629353509971,
+    "duration" : 9501
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c823bd0362a813e4",
+  "name" : "Tc8, Meglévő adat módosítás",
+  "time" : {
+    "start" : 1629353541796,
+    "stop" : 1629353573435,
+    "duration" : 31639
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "826ae9fd99a34f8c",
+  "name" : "Tc2, Bejelentkezés",
+  "time" : {
+    "start" : 1629353933702,
+    "stop" : 1629353938318,
+    "duration" : 4616
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ad4ac793bb16ec26",
+  "name" : "Tc9, Kijelentkezés",
+  "time" : {
+    "start" : 1629353476798,
+    "stop" : 1629353500370,
+    "duration" : 23572
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "96efccb0b180a609",
+  "name" : "Tc6, Adat törlése",
+  "time" : {
+    "start" : 1629353905224,
+    "stop" : 1629353930552,
+    "duration" : 25328
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6f8617772e9eb64",
+  "name" : "Tc5, Több oldalas lista bejárása",
+  "time" : {
+    "start" : 1629353938334,
+    "stop" : 1629353943067,
+    "duration" : 4733
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

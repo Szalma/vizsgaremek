@@ -1,0 +1,143 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az39-548",
+    "children" : [ {
+      "name" : "3085@fv-az39-548.ForkJoinPool-1-worker-1(12)",
+      "children" : [ {
+        "name" : "Tc1, Regisztráció",
+        "uid" : "b18237f49e3ce844",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1629353938326,
+          "stop" : 1629353938326,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+        "uid" : "bfb2dec1b39f2fc0",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629353509982,
+          "stop" : 1629353541783,
+          "duration" : 31801
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc4, Adatok listázása",
+        "uid" : "260dd8579c049b66",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629353930560,
+          "stop" : 1629353933692,
+          "duration" : 3132
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+        "uid" : "563203055b81887d",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629353500470,
+          "stop" : 1629353509971,
+          "duration" : 9501
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc8, Meglévő adat módosítás",
+        "uid" : "c823bd0362a813e4",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629353541796,
+          "stop" : 1629353573435,
+          "duration" : 31639
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc9, Kijelentkezés",
+        "uid" : "ad4ac793bb16ec26",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629353476798,
+          "stop" : 1629353500370,
+          "duration" : 23572
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc6, Adat törlése",
+        "uid" : "96efccb0b180a609",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629353905224,
+          "stop" : 1629353930552,
+          "duration" : 25328
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc2, Bejelentkezés",
+        "uid" : "826ae9fd99a34f8c",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629353933702,
+          "stop" : 1629353938318,
+          "duration" : 4616
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc6, Új adat bevitel",
+        "uid" : "b99ae126cbe403fc",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629353573453,
+          "stop" : 1629353905201,
+          "duration" : 331748
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Tc5, Több oldalas lista bejárása",
+        "uid" : "6f8617772e9eb64",
+        "parentUid" : "07e14ca9a345545dca3e75b0b14788b6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1629353938334,
+          "stop" : 1629353943067,
+          "duration" : 4733
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "07e14ca9a345545dca3e75b0b14788b6"
+    } ],
+    "uid" : "436e031f5739b7e30cef8a09aea9c2e6"
+  } ],
+  "name" : "timeline"
+}
