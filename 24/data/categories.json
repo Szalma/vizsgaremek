@@ -3,39 +3,56 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az47-628', ip: '10.1.0.32', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.N26vyw}, goog:chromeOptions: {debuggerAddress: localhost:36623}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: d9870ba306f847976d4fe38bb30e02cd\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3}",
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
       "children" : [ {
-        "name" : "Tc6, Új adat bevitel",
-        "uid" : "d4af2140f12c4a61",
-        "parentUid" : "bd527f9437b38a1bf2950ee58e5c77e9",
+        "name" : "Tc9, Kijelentkezés",
+        "uid" : "62e1f602b2132df0",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
         "status" : "broken",
         "time" : {
-          "start" : 1629357269514,
-          "stop" : 1629357307088,
-          "duration" : 37574
+          "start" : 1629379230586,
+          "stop" : 1629379251727,
+          "duration" : 21141
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "bd527f9437b38a1bf2950ee58e5c77e9"
+      "uid" : "5d1b8b5ab097375c9200f0159974778e"
     }, {
-      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@class='last_item alternate_item box']/li[9]/a[2]/span (tried for 10 second(s) with 500 milliseconds interval)",
+      "name" : "no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#email\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-802', ip: '10.1.0.254', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.mjmSTL}, goog:chromeOptions: {debuggerAddress: localhost:34145}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 961cb9bbbc91bd37a74c36612b6c687e\n*** Element info: {Using=id, value=email}",
       "children" : [ {
-        "name" : "Tc6, Adat törlése",
-        "uid" : "2698e6ae077daaed",
-        "parentUid" : "6a15ef5b5da3ddfd075e1f85ab42b97a",
+        "name" : "Tc2, Bejelentkezés",
+        "uid" : "a166619a42373fe",
+        "parentUid" : "3cca90583d859495f0a88eaa42653589",
         "status" : "broken",
         "time" : {
-          "start" : 1629357307096,
-          "stop" : 1629357336814,
-          "duration" : 29718
+          "start" : 1629379483016,
+          "stop" : 1629379517619,
+          "duration" : 34603
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "6a15ef5b5da3ddfd075e1f85ab42b97a"
+      "uid" : "3cca90583d859495f0a88eaa42653589"
+    }, {
+      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"subcategories\"]/ul/li[1]/div/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az83-802', ip: '10.1.0.254', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.bkzlmC}, goog:chromeOptions: {debuggerAddress: localhost:40289}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b6d0e5c89a5524b7eb24bfcfcbb943e6\n*** Element info: {Using=xpath, value=//*[@id=\"subcategories\"]/ul/li[1]/div/a}",
+      "children" : [ {
+        "name" : "Tc5, Több oldalas lista bejárása",
+        "uid" : "a50d6c7de6db3c0a",
+        "parentUid" : "68e6e6f54dd664cd7ed04c8cf555b62c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629379517655,
+          "stop" : 1629379560547,
+          "duration" : 42892
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "68e6e6f54dd664cd7ed04c8cf555b62c"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],
