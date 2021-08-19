@@ -1,101 +1,101 @@
 [ {
-  "uid" : "b16d11a4d15629c0",
-  "name" : "Tc5, Több oldalas lista bejárása",
-  "time" : {
-    "start" : 1629315889466,
-    "stop" : 1629315925825,
-    "duration" : 36359
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "3072d019908cde10",
-  "name" : "Tc8, Meglévő adat módosítás",
-  "time" : {
-    "start" : 1629315680448,
-    "stop" : 1629315749215,
-    "duration" : 68767
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "2d645e405f37858c",
-  "name" : "Tc6, Új adat bevitel",
-  "time" : {
-    "start" : 1629315749227,
-    "stop" : 1629315806706,
-    "duration" : 57479
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "347a3349e6396c0c",
-  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
-  "time" : {
-    "start" : 1629315639238,
-    "stop" : 1629315659869,
-    "duration" : 20631
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "b623e4a4cbd1d15f",
-  "name" : "Tc2, Bejelentkezés",
-  "time" : {
-    "start" : 1629315853060,
-    "stop" : 1629315889448,
-    "duration" : 36388
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "7f15ee274f5b2ebb",
+  "uid" : "126d8596fe88aba3",
   "name" : "Tc4, Adatok listázása",
   "time" : {
-    "start" : 1629315827230,
-    "stop" : 1629315853056,
-    "duration" : 25826
+    "start" : 1629358396553,
+    "stop" : 1629358417890,
+    "duration" : 21337
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "93f55ae76d134d9",
+  "uid" : "6b14a196c3d78ccc",
+  "name" : "Tc6, Adat törlése",
+  "time" : {
+    "start" : 1629358352746,
+    "stop" : 1629358396538,
+    "duration" : 43792
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "55a448a10bac24ad",
+  "name" : "Tc3, Adatkezelési nyilatkozat kezelése és adat lementése",
+  "time" : {
+    "start" : 1629358153392,
+    "stop" : 1629358162584,
+    "duration" : 9192
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3c88d9fc7f99fa89",
+  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "time" : {
+    "start" : 1629358162590,
+    "stop" : 1629358222035,
+    "duration" : 59445
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ce9514f71b34458c",
+  "name" : "Tc2, Bejelentkezés",
+  "time" : {
+    "start" : 1629358417898,
+    "stop" : 1629358447180,
+    "duration" : 29282
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2aefc6b1c611bd5e",
   "name" : "Tc9, Kijelentkezés",
   "time" : {
-    "start" : 1629315570671,
-    "stop" : 1629315639132,
-    "duration" : 68461
+    "start" : 1629358107174,
+    "stop" : 1629358153299,
+    "duration" : 46125
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8b68004515a5144b",
+  "name" : "Tc8, Meglévő adat módosítás",
+  "time" : {
+    "start" : 1629358222043,
+    "stop" : 1629358284940,
+    "duration" : 62897
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "675904ab3cb458c7",
+  "uid" : "87d45ed70fec26ab",
   "name" : "Tc1, Regisztráció",
   "time" : {
-    "start" : 1629315889456,
-    "stop" : 1629315889456,
+    "start" : 1629358447192,
+    "stop" : 1629358447192,
     "duration" : 0
   },
   "status" : "skipped",
   "severity" : "normal"
 }, {
-  "uid" : "6ee2f0a1260861d1",
-  "name" : "Tc6, Adat törlése",
+  "uid" : "a679fe2973bcd49b",
+  "name" : "Tc6, Új adat bevitel",
   "time" : {
-    "start" : 1629315806712,
-    "stop" : 1629315827224,
-    "duration" : 20512
+    "start" : 1629358284968,
+    "stop" : 1629358352742,
+    "duration" : 67774
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "c0276b313796ddc2",
-  "name" : "Tc7, Ismételt és sorozatos adatbevitel adatforrásból",
+  "uid" : "43c0b8059af9b55d",
+  "name" : "Tc5, Több oldalas lista bejárása",
   "time" : {
-    "start" : 1629315659882,
-    "stop" : 1629315680443,
-    "duration" : 20561
+    "start" : 1629358447201,
+    "stop" : 1629358479978,
+    "duration" : 32777
   },
-  "status" : "broken",
+  "status" : "passed",
   "severity" : "normal"
 } ]
