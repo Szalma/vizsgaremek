@@ -1,4 +1,9 @@
 [ {
+  "buildOrder" : 21,
+  "reportUrl" : "https://Szalma.github.io/vizsgaremek/21/",
+  "reportName" : "Allure Report with history",
+  "data" : { }
+}, {
   "buildOrder" : 18,
   "reportUrl" : "https://Szalma.github.io/vizsgaremek/18/",
   "reportName" : "Allure Report with history",
@@ -129,12 +134,5 @@
   "reportName" : "Allure Report with history",
   "data" : {
     "Test defects" : 8
-  }
-}, {
-  "buildOrder" : 16,
-  "reportUrl" : "https://Szalma.github.io/vizsgaremek/16/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "Test defects" : 5
   }
 } ]
