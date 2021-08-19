@@ -1,12 +1,12 @@
 {
-  "uid" : "c72112ca8a3a74e1",
+  "uid" : "f32353898a453c96",
   "name" : "Tc5, Több oldalas lista bejárása",
   "fullName" : "multipagelist.MultiPageListTest.multiPageListTest",
   "historyId" : "1d7f842d66f1bd184bc4d4f92f1d78f2",
   "time" : {
-    "start" : 1629380076537,
-    "stop" : 1629380117061,
-    "duration" : 40524
+    "start" : 1629380080945,
+    "stop" : 1629380122092,
+    "duration" : 41147
   },
   "description" : "",
   "status" : "passed",
@@ -15,9 +15,9 @@
   "beforeStages" : [ {
     "name" : "Setup",
     "time" : {
-      "start" : 1629380076538,
-      "stop" : 1629380089572,
-      "duration" : 13034
+      "start" : 1629380080945,
+      "stop" : 1629380093204,
+      "duration" : 12259
     },
     "status" : "passed",
     "steps" : [ ],
@@ -31,8 +31,8 @@
   "afterStages" : [ {
     "name" : "quit",
     "time" : {
-      "start" : 1629380116990,
-      "stop" : 1629380117060,
+      "start" : 1629380122021,
+      "stop" : 1629380122091,
       "duration" : 70
     },
     "status" : "passed",
@@ -46,10 +46,10 @@
   } ],
   "labels" : [ {
     "name" : "host",
-    "value" : "fv-az82-467"
+    "value" : "fv-az47-368"
   }, {
     "name" : "thread",
-    "value" : "2858@fv-az82-467.ForkJoinPool-1-worker-1(12)"
+    "value" : "2814@fv-az47-368.ForkJoinPool-1-worker-1(12)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -276,6 +276,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "c72112ca8a3a74e1.json",
+  "source" : "f32353898a453c96.json",
   "parameterValues" : [ ]
 }

@@ -1,11 +1,11 @@
 {
-  "uid" : "d53609aed3b01644",
+  "uid" : "38d98bc597abf319",
   "name" : "Tc1, Regisztráció",
   "fullName" : "registration.RegistrationTest.successfulRegistrationTest",
   "historyId" : "d466ecec4fe5d3bc411c200226ba2343",
   "time" : {
-    "start" : 1629380076524,
-    "stop" : 1629380076524,
+    "start" : 1629380080930,
+    "stop" : 1629380080930,
     "duration" : 0
   },
   "description" : "",
@@ -17,10 +17,10 @@
   "afterStages" : [ ],
   "labels" : [ {
     "name" : "host",
-    "value" : "fv-az82-467"
+    "value" : "fv-az47-368"
   }, {
     "name" : "thread",
-    "value" : "2858@fv-az82-467.ForkJoinPool-1-worker-1(12)"
+    "value" : "2814@fv-az47-368.ForkJoinPool-1-worker-1(12)"
   }, {
     "name" : "framework",
     "value" : "junit-platform"
@@ -264,6 +264,6 @@
     },
     "tags" : [ ]
   },
-  "source" : "d53609aed3b01644.json",
+  "source" : "38d98bc597abf319.json",
   "parameterValues" : [ ]
 }
