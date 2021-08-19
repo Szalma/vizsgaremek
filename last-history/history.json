@@ -139,13 +139,23 @@
   "8afc4a90038acf70bc20827c2141baa1" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 55,
+      "broken" : 56,
       "skipped" : 0,
       "passed" : 23,
       "unknown" : 0,
-      "total" : 78
+      "total" : 79
     },
     "items" : [ {
+      "uid" : "4329fb7b1f16c790",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/4329fb7b1f16c790",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@class='last_item alternate_item box']/li[9]/a[2]/span (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629380396169,
+        "stop" : 1629380457644,
+        "duration" : 61475
+      }
+    }, {
       "uid" : "98e5f9aa3ab0ed74",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/98e5f9aa3ab0ed74",
       "status" : "broken",
@@ -328,15 +338,6 @@
         "stop" : 1629353751321,
         "duration" : 5950
       }
-    }, {
-      "uid" : "5848a29abdceec15",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/5848a29abdceec15",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353717330,
-        "stop" : 1629353726010,
-        "duration" : 8680
-      }
     } ]
   },
   "874076ca03adbd4b1ef88e571c786150" : {
@@ -344,11 +345,20 @@
       "failed" : 0,
       "broken" : 21,
       "skipped" : 0,
-      "passed" : 71,
+      "passed" : 72,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "c17b4ed67084cee4",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/c17b4ed67084cee4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629380254057,
+        "stop" : 1629380268005,
+        "duration" : 13948
+      }
+    }, {
       "uid" : "28e13f1b5b2d1005",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/28e13f1b5b2d1005",
       "status" : "passed",
@@ -523,15 +533,6 @@
         "stop" : 1629353715776,
         "duration" : 3196
       }
-    }, {
-      "uid" : "8a44509a7b1c63d",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/8a44509a7b1c63d",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353676779,
-        "stop" : 1629353683707,
-        "duration" : 6928
-      }
     } ]
   },
   "ff489951925913a970754280ae316aeb" : {
@@ -539,11 +540,20 @@
       "failed" : 0,
       "broken" : 41,
       "skipped" : 0,
-      "passed" : 51,
+      "passed" : 52,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "387ab1dca49add5a",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/387ab1dca49add5a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629380204534,
+        "stop" : 1629380253953,
+        "duration" : 49419
+      }
+    }, {
       "uid" : "48899df0b93d0f03",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/48899df0b93d0f03",
       "status" : "passed",
@@ -722,15 +732,6 @@
         "stop" : 1629353712495,
         "duration" : 9359
       }
-    }, {
-      "uid" : "e77ad95319286e2c",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/e77ad95319286e2c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353661531,
-        "stop" : 1629353676669,
-        "duration" : 15138
-      }
     } ]
   },
   "ba81521cb165d527242ba3f70733c9d2" : {
@@ -738,11 +739,20 @@
       "failed" : 0,
       "broken" : 36,
       "skipped" : 0,
-      "passed" : 56,
+      "passed" : 57,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "4f695d9fac5e72dc",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/4f695d9fac5e72dc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629380316890,
+        "stop" : 1629380371716,
+        "duration" : 54826
+      }
+    }, {
       "uid" : "626e5a7dc1e15351",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/626e5a7dc1e15351",
       "status" : "passed",
@@ -921,15 +931,6 @@
         "stop" : 1629353735473,
         "duration" : 9760
       }
-    }, {
-      "uid" : "363b0da998dbd065",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/363b0da998dbd065",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353697838,
-        "stop" : 1629353706990,
-        "duration" : 9152
-      }
     } ]
   },
   "336b31e0f5a004f69e689a767649f020" : {
@@ -937,11 +938,20 @@
       "failed" : 5,
       "broken" : 24,
       "skipped" : 0,
-      "passed" : 63,
+      "passed" : 64,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "37564a1961112af4",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/37564a1961112af4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629380457677,
+        "stop" : 1629380476919,
+        "duration" : 19242
+      }
+    }, {
       "uid" : "4fab921fa6a399e0",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/4fab921fa6a399e0",
       "status" : "failed",
@@ -1118,15 +1128,6 @@
         "stop" : 1629353754591,
         "duration" : 3259
       }
-    }, {
-      "uid" : "e7786c767a35c1c",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/e7786c767a35c1c",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353726018,
-        "stop" : 1629353730361,
-        "duration" : 4343
-      }
     } ]
   },
   "4e21b2105ba6dfb89ada3e368ebaea37" : {
@@ -1281,11 +1282,20 @@
       "failed" : 1,
       "broken" : 25,
       "skipped" : 0,
-      "passed" : 66,
+      "passed" : 67,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "f626b1640ffd915d",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/f626b1640ffd915d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629380508867,
+        "stop" : 1629380538679,
+        "duration" : 29812
+      }
+    }, {
       "uid" : "43e2124d0b6d5818",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/43e2124d0b6d5818",
       "status" : "passed",
@@ -1459,27 +1469,28 @@
         "stop" : 1629353763795,
         "duration" : 4485
       }
-    }, {
-      "uid" : "18f37869198d4551",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/18f37869198d4551",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353736942,
-        "stop" : 1629353743436,
-        "duration" : 6494
-      }
     } ]
   },
   "d466ecec4fe5d3bc411c200226ba2343" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 35,
-      "skipped" : 57,
+      "skipped" : 58,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "d47e5d55ec9063b8",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/d47e5d55ec9063b8",
+      "status" : "skipped",
+      "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+      "time" : {
+        "start" : 1629380508856,
+        "stop" : 1629380508857,
+        "duration" : 1
+      }
+    }, {
       "uid" : "59fefde6c6277215",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/59fefde6c6277215",
       "status" : "skipped",
@@ -1669,16 +1680,6 @@
         "stop" : 1629353759300,
         "duration" : 0
       }
-    }, {
-      "uid" : "4f39790534cbb06f",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/4f39790534cbb06f",
-      "status" : "skipped",
-      "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
-      "time" : {
-        "start" : 1629353736929,
-        "stop" : 1629353736929,
-        "duration" : 0
-      }
     } ]
   },
   "aa2fa6a4e7ba5fc75b17bace434e103b" : {
@@ -1686,11 +1687,20 @@
       "failed" : 5,
       "broken" : 31,
       "skipped" : 0,
-      "passed" : 56,
+      "passed" : 57,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "e9b3b550229a9bc6",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/e9b3b550229a9bc6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629380268013,
+        "stop" : 1629380316879,
+        "duration" : 48866
+      }
+    }, {
       "uid" : "2e5891ad43d1d96c",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/2e5891ad43d1d96c",
       "status" : "broken",
@@ -1867,15 +1877,6 @@
         "stop" : 1629353725708,
         "duration" : 9906
       }
-    }, {
-      "uid" : "3b56c0b26413b6db",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/3b56c0b26413b6db",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353683716,
-        "stop" : 1629353697828,
-        "duration" : 14112
-      }
     } ]
   },
   "ec8b7578a520adb49c40c78d5a0be45f" : {
@@ -1883,11 +1884,20 @@
       "failed" : 0,
       "broken" : 32,
       "skipped" : 0,
-      "passed" : 60,
+      "passed" : 61,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "c879633008853a61",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/c879633008853a61",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629380476924,
+        "stop" : 1629380508846,
+        "duration" : 31922
+      }
+    }, {
       "uid" : "57ba6001fbbef03f",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/57ba6001fbbef03f",
       "status" : "broken",
@@ -2065,27 +2075,28 @@
         "stop" : 1629353759291,
         "duration" : 4697
       }
-    }, {
-      "uid" : "c5f8fc17a02396b6",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/c5f8fc17a02396b6",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353730366,
-        "stop" : 1629353736912,
-        "duration" : 6546
-      }
     } ]
   },
   "b097ebbdb2a4d44cf97846f193bf0cae" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 72,
+      "broken" : 73,
       "skipped" : 0,
       "passed" : 20,
       "unknown" : 0,
-      "total" : 92
+      "total" : 93
     },
     "items" : [ {
+      "uid" : "eade7faf4eefdb82",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/25//#testresult/eade7faf4eefdb82",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629380371722,
+        "stop" : 1629380396159,
+        "duration" : 24437
+      }
+    }, {
       "uid" : "ebe5fd55d2c22f6d",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/27//#testresult/ebe5fd55d2c22f6d",
       "status" : "broken",
@@ -2268,15 +2279,6 @@
         "start" : 1629353735484,
         "stop" : 1629353745364,
         "duration" : 9880
-      }
-    }, {
-      "uid" : "96944674286ff8bd",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/21//#testresult/96944674286ff8bd",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629353707003,
-        "stop" : 1629353717324,
-        "duration" : 10321
       }
     } ]
   }

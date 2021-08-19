@@ -3,39 +3,39 @@
   "children" : [ {
     "name" : "Test defects",
     "children" : [ {
-      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div[1]/div/div/ul/li[8]/span\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az47-628', ip: '10.1.0.203', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.IlDjDB}, goog:chromeOptions: {debuggerAddress: localhost:40455}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: eb734af222bf869b3bf4de392c86f5c9\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div[1]/div/div/ul/li[8]/span}",
-      "children" : [ {
-        "name" : "Tc8, Meglévő adat módosítás",
-        "uid" : "8b68004515a5144b",
-        "parentUid" : "7cfc18fb08fc8cb26333c09f9f3d98a9",
-        "status" : "broken",
-        "time" : {
-          "start" : 1629358222043,
-          "stop" : 1629358284940,
-          "duration" : 62897
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ ]
-      } ],
-      "uid" : "7cfc18fb08fc8cb26333c09f9f3d98a9"
-    }, {
-      "name" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az47-628', ip: '10.1.0.203', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '16.0.2'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.lzPBp2}, goog:chromeOptions: {debuggerAddress: localhost:36215}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: b45b7df50ac853cad3c567ba96d7b4a3\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div[1]/div/div[2]/ul/li[1]/h3}",
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
       "children" : [ {
         "name" : "Tc6, Új adat bevitel",
-        "uid" : "a679fe2973bcd49b",
-        "parentUid" : "2af2aa68c35d683285035f1cffc6063c",
+        "uid" : "eade7faf4eefdb82",
+        "parentUid" : "5d1b8b5ab097375c9200f0159974778e",
         "status" : "broken",
         "time" : {
-          "start" : 1629358284968,
-          "stop" : 1629358352742,
-          "duration" : 67774
+          "start" : 1629380371722,
+          "stop" : 1629380396159,
+          "duration" : 24437
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ ]
       } ],
-      "uid" : "2af2aa68c35d683285035f1cffc6063c"
+      "uid" : "5d1b8b5ab097375c9200f0159974778e"
+    }, {
+      "name" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@class='last_item alternate_item box']/li[9]/a[2]/span (tried for 10 second(s) with 500 milliseconds interval)",
+      "children" : [ {
+        "name" : "Tc6, Adat törlése",
+        "uid" : "4329fb7b1f16c790",
+        "parentUid" : "6a15ef5b5da3ddfd075e1f85ab42b97a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1629380396169,
+          "stop" : 1629380457644,
+          "duration" : 61475
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "6a15ef5b5da3ddfd075e1f85ab42b97a"
     } ],
     "uid" : "bdbf199525818fae7a8651db9eafe741"
   } ],
