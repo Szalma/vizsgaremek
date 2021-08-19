@@ -139,13 +139,23 @@
   "8afc4a90038acf70bc20827c2141baa1" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 47,
+      "broken" : 48,
       "skipped" : 0,
       "passed" : 20,
       "unknown" : 0,
-      "total" : 67
+      "total" : 68
     },
     "items" : [ {
+      "uid" : "f624edeca338a4ec",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/f624edeca338a4ec",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629357954770,
+        "stop" : 1629357980033,
+        "duration" : 25263
+      }
+    }, {
       "uid" : "667b1cf7558e7c9f",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/667b1cf7558e7c9f",
       "status" : "broken",
@@ -328,16 +338,6 @@
         "stop" : 1629314874661,
         "duration" : 57152
       }
-    }, {
-      "uid" : "da0c47db18505498",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/da0c47db18505498",
-      "status" : "broken",
-      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
-      "time" : {
-        "start" : 1629314743628,
-        "stop" : 1629314764050,
-        "duration" : 20422
-      }
     } ]
   },
   "874076ca03adbd4b1ef88e571c786150" : {
@@ -345,11 +345,20 @@
       "failed" : 0,
       "broken" : 18,
       "skipped" : 0,
-      "passed" : 63,
+      "passed" : 64,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "9ff3a130b016df27",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/9ff3a130b016df27",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629357838658,
+        "stop" : 1629357859197,
+        "duration" : 20539
+      }
+    }, {
       "uid" : "30fc57056404cf0c",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/30fc57056404cf0c",
       "status" : "broken",
@@ -525,16 +534,6 @@
         "stop" : 1629314654565,
         "duration" : 18906
       }
-    }, {
-      "uid" : "e88f047e6c279017",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/e88f047e6c279017",
-      "status" : "broken",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='footer-block col-xs-12 col-sm-2']//li[6]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az72-270', ip: '10.1.0.100', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.UcYkCM}, goog:chromeOptions: {debuggerAddress: localhost:45355}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: f62dbf4e780d99b2132a87fe2f168bb6\n*** Element info: {Using=xpath, value=//*[@class='footer-block col-xs-12 col-sm-2']//li[6]/a}",
-      "time" : {
-        "start" : 1629314646738,
-        "stop" : 1629314672133,
-        "duration" : 25395
-      }
     } ]
   },
   "ff489951925913a970754280ae316aeb" : {
@@ -542,11 +541,20 @@
       "failed" : 0,
       "broken" : 34,
       "skipped" : 0,
-      "passed" : 47,
+      "passed" : 48,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "9be1cda875ec8681",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/9be1cda875ec8681",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629357783315,
+        "stop" : 1629357838556,
+        "duration" : 55241
+      }
+    }, {
       "uid" : "1f71b60d35e38891",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/1f71b60d35e38891",
       "status" : "broken",
@@ -727,28 +735,28 @@
         "stop" : 1629314635572,
         "duration" : 35782
       }
-    }, {
-      "uid" : "ede99c10f4477d25",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/ede99c10f4477d25",
-      "status" : "broken",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az72-270', ip: '10.1.0.100', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.RMi2eE}, goog:chromeOptions: {debuggerAddress: localhost:40865}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: cf743e8dc4d5f7eaabdbccd867d95e54\n*** Element info: {Using=xpath, value=//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a}",
-      "time" : {
-        "start" : 1629314583533,
-        "stop" : 1629314646652,
-        "duration" : 63119
-      }
     } ]
   },
   "ba81521cb165d527242ba3f70733c9d2" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 28,
+      "broken" : 29,
       "skipped" : 0,
       "passed" : 53,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "29704ce9d9863c70",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/29704ce9d9863c70",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629357884522,
+        "stop" : 1629357909874,
+        "duration" : 25352
+      }
+    }, {
       "uid" : "b2a7b8292883657a",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/b2a7b8292883657a",
       "status" : "passed",
@@ -924,28 +932,28 @@
         "stop" : 1629314792103,
         "duration" : 66333
       }
-    }, {
-      "uid" : "cb2972f742abf8b1",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/cb2972f742abf8b1",
-      "status" : "broken",
-      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
-      "time" : {
-        "start" : 1629314697523,
-        "stop" : 1629314723190,
-        "duration" : 25667
-      }
     } ]
   },
   "336b31e0f5a004f69e689a767649f020" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 20,
+      "broken" : 21,
       "skipped" : 0,
       "passed" : 57,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "867799b4a1011959",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/867799b4a1011959",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"block_various_links_footer\"]/ul/li[8]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az47-628', ip: '10.1.0.26', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.gLGiLx}, goog:chromeOptions: {debuggerAddress: localhost:35521}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 747c6d044ef11ec783602f76d5f9172d\n*** Element info: {Using=xpath, value=//*[@id=\"block_various_links_footer\"]/ul/li[8]/a}",
+      "time" : {
+        "start" : 1629357980039,
+        "stop" : 1629358005076,
+        "duration" : 25037
+      }
+    }, {
       "uid" : "89b2786f75526b09",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/89b2786f75526b09",
       "status" : "failed",
@@ -1119,16 +1127,6 @@
         "stop" : 1629314901422,
         "duration" : 26756
       }
-    }, {
-      "uid" : "2df6b2ef59ec385d",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/2df6b2ef59ec385d",
-      "status" : "broken",
-      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"block_various_links_footer\"]/ul/li[8]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az72-270', ip: '10.1.0.100', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.zg6dKG}, goog:chromeOptions: {debuggerAddress: localhost:33663}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 33676b9a67ae46cefa3fc18133b5080f\n*** Element info: {Using=xpath, value=//*[@id=\"block_various_links_footer\"]/ul/li[8]/a}",
-      "time" : {
-        "start" : 1629314764056,
-        "stop" : 1629314784562,
-        "duration" : 20506
-      }
     } ]
   },
   "4e21b2105ba6dfb89ada3e368ebaea37" : {
@@ -1281,13 +1279,23 @@
   "1d7f842d66f1bd184bc4d4f92f1d78f2" : {
     "statistic" : {
       "failed" : 1,
-      "broken" : 22,
+      "broken" : 23,
       "skipped" : 0,
       "passed" : 58,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "71603b7cf6a11c5a",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/71603b7cf6a11c5a",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li[1]/a\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az47-628', ip: '10.1.0.26', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.poDUxH}, goog:chromeOptions: {debuggerAddress: localhost:45759}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: 675f5690fbe1ad2e3d9d1aa6e31cf829\n*** Element info: {Using=xpath, value=//*[@class='sf-menu clearfix menu-content sf-js-enabled sf-arrows']/li[1]/a}",
+      "time" : {
+        "start" : 1629358039528,
+        "stop" : 1629358059976,
+        "duration" : 20448
+      }
+    }, {
       "uid" : "f8cd50960aeba901",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/f8cd50960aeba901",
       "status" : "passed",
@@ -1462,27 +1470,28 @@
         "stop" : 1629314946902,
         "duration" : 20457
       }
-    }, {
-      "uid" : "f58c8df19d1c5339",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/f58c8df19d1c5339",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629314822665,
-        "stop" : 1629314863363,
-        "duration" : 40698
-      }
     } ]
   },
   "d466ecec4fe5d3bc411c200226ba2343" : {
     "statistic" : {
       "failed" : 0,
       "broken" : 35,
-      "skipped" : 46,
+      "skipped" : 47,
       "passed" : 0,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "22bdcc4ef2f1b506",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/22bdcc4ef2f1b506",
+      "status" : "skipped",
+      "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
+      "time" : {
+        "start" : 1629358039524,
+        "stop" : 1629358039524,
+        "duration" : 0
+      }
+    }, {
       "uid" : "66f9e0d4bfebf7c9",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/66f9e0d4bfebf7c9",
       "status" : "skipped",
@@ -1672,28 +1681,28 @@
         "stop" : 1629314926437,
         "duration" : 0
       }
-    }, {
-      "uid" : "e15de32a90445949",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/e15de32a90445949",
-      "status" : "skipped",
-      "statusDetails" : "public void registration.RegistrationTest.successfulRegistrationTest() is @Disabled",
-      "time" : {
-        "start" : 1629314822660,
-        "stop" : 1629314822660,
-        "duration" : 0
-      }
     } ]
   },
   "aa2fa6a4e7ba5fc75b17bace434e103b" : {
     "statistic" : {
       "failed" : 5,
-      "broken" : 26,
+      "broken" : 27,
       "skipped" : 0,
       "passed" : 50,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "2c1f29c74b5259ab",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/2c1f29c74b5259ab",
+      "status" : "broken",
+      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
+      "time" : {
+        "start" : 1629357859211,
+        "stop" : 1629357884494,
+        "duration" : 25283
+      }
+    }, {
       "uid" : "c96685faed14960f",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/c96685faed14960f",
       "status" : "broken",
@@ -1869,16 +1878,6 @@
         "stop" : 1629314725762,
         "duration" : 71171
       }
-    }, {
-      "uid" : "71675cc93d880b6e",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/71675cc93d880b6e",
-      "status" : "broken",
-      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
-      "time" : {
-        "start" : 1629314672150,
-        "stop" : 1629314697518,
-        "duration" : 25368
-      }
     } ]
   },
   "ec8b7578a520adb49c40c78d5a0be45f" : {
@@ -1886,11 +1885,20 @@
       "failed" : 0,
       "broken" : 26,
       "skipped" : 0,
-      "passed" : 55,
+      "passed" : 56,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "19a593889c99c910",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/19a593889c99c910",
+      "status" : "passed",
+      "time" : {
+        "start" : 1629358005099,
+        "stop" : 1629358039516,
+        "duration" : 34417
+      }
+    }, {
       "uid" : "bdcfcf3952a92193",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/bdcfcf3952a92193",
       "status" : "broken",
@@ -2067,27 +2075,28 @@
         "stop" : 1629314926422,
         "duration" : 24993
       }
-    }, {
-      "uid" : "452079d6d15bc2e8",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/452079d6d15bc2e8",
-      "status" : "passed",
-      "time" : {
-        "start" : 1629314784566,
-        "stop" : 1629314822650,
-        "duration" : 38084
-      }
     } ]
   },
   "b097ebbdb2a4d44cf97846f193bf0cae" : {
     "statistic" : {
       "failed" : 0,
-      "broken" : 63,
+      "broken" : 64,
       "skipped" : 0,
       "passed" : 18,
       "unknown" : 0,
-      "total" : 81
+      "total" : 82
     },
     "items" : [ {
+      "uid" : "32baee7ae763fd2b",
+      "reportUrl" : "https://Szalma.github.io/vizsgaremek/20//#testresult/32baee7ae763fd2b",
+      "status" : "broken",
+      "statusDetails" : "no such element: Unable to locate element: {\"method\":\"xpath\",\"selector\":\"//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a/span\"}\n  (Session info: headless chrome=92.0.4515.131)\nFor documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '4.0.0-alpha-2', revision: 'f148142cf8', time: '2019-07-01T20:55:26'\nSystem info: host: 'fv-az47-628', ip: '10.1.0.26', os.name: 'Linux', os.arch: 'amd64', os.version: '5.8.0-1039-azure', java.version: '1.8.0_302'\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 92.0.4515.131, chrome: {chromedriverVersion: 92.0.4515.107 (87a818b10553..., userDataDir: /tmp/.com.google.Chrome.O1NasP}, goog:chromeOptions: {debuggerAddress: localhost:37729}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: LINUX, platformName: LINUX, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}\nSession ID: ed8735c6bf89082bb2d58e0d075c82c9\n*** Element info: {Using=xpath, value=//*[@id=\"center_column\"]/div/div[1]/ul/li[3]/a/span}",
+      "time" : {
+        "start" : 1629357909880,
+        "stop" : 1629357954766,
+        "duration" : 44886
+      }
+    }, {
       "uid" : "de65508acb2f89c8",
       "reportUrl" : "https://Szalma.github.io/vizsgaremek/28//#testresult/de65508acb2f89c8",
       "status" : "broken",
@@ -2270,16 +2279,6 @@
         "start" : 1629314792112,
         "stop" : 1629314817504,
         "duration" : 25392
-      }
-    }, {
-      "uid" : "816db08fd63b89b3",
-      "reportUrl" : "https://Szalma.github.io/vizsgaremek/24//#testresult/816db08fd63b89b3",
-      "status" : "broken",
-      "statusDetails" : "Expected condition failed: waiting for element to be clickable: By.xpath: //*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a (tried for 10 second(s) with 500 milliseconds interval)",
-      "time" : {
-        "start" : 1629314723207,
-        "stop" : 1629314743618,
-        "duration" : 20411
       }
     } ]
   }
